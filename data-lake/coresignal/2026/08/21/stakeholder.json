@@ -1,0 +1,6071 @@
+[
+  {
+    "source": "coresignal",
+    "person_id": "CS_000001",
+    "full_name": "Dr. Wei Davis",
+    "first_name": "Wei",
+    "last_name": "Davis",
+    "title": "Lab Director",
+    "current_company": "MIT",
+    "department": "Immunology",
+    "location": "Palo Alto, CA",
+    "country": "China",
+    "education": [
+      {
+        "institution": "Yale University",
+        "degree": "PhD",
+        "field": "Immunology",
+        "start_year": 2002,
+        "end_year": 2015
+      },
+      {
+        "institution": "ETH Zurich",
+        "degree": "BS/MS",
+        "field": "Immunology",
+        "start_year": 2005,
+        "end_year": 2010
+      }
+    ],
+    "experience": [
+      {
+        "company": "MIT",
+        "position": "Lab Director",
+        "department": "Department of Immunology",
+        "start_date": "2011-08-25",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Cornell University",
+        "position": "Senior Scientist",
+        "department": "Department of Immunology",
+        "start_date": "2003-08-27",
+        "end_date": "2011-08-25",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Cancer immunotherapy",
+      "Neural networks",
+      "Climate modeling"
+    ],
+    "research_interests": [
+      "Computational chemistry",
+      "Cancer immunotherapy"
+    ],
+    "linkedin_url": "linkedin.com/in/weidavis674",
+    "h_index": 35,
+    "total_citations": 9428,
+    "total_publications": 122,
+    "data_quality_score": 0.77,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 93
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000002",
+    "full_name": "Dr. Sarah Smith",
+    "first_name": "Sarah",
+    "last_name": "Smith",
+    "title": "Staff Scientist",
+    "current_company": "Columbia University",
+    "department": "Materials Science",
+    "location": "Berkeley, CA",
+    "country": "Singapore",
+    "education": [
+      {
+        "institution": "Yale University",
+        "degree": "PhD",
+        "field": "Materials Science",
+        "start_year": 2002,
+        "end_year": 2011
+      },
+      {
+        "institution": "McGill University",
+        "degree": "BS/MS",
+        "field": "Materials Science",
+        "start_year": 1996,
+        "end_year": 2005
+      }
+    ],
+    "experience": [
+      {
+        "company": "Columbia University",
+        "position": "Staff Scientist",
+        "department": "Department of Materials Science",
+        "start_date": "2019-08-23",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Nanotechnology",
+      "Protein folding",
+      "CRISPR gene editing",
+      "Synthetic biology",
+      "Quantum mechanics"
+    ],
+    "research_interests": [
+      "Neural networks",
+      "Brain-computer interfaces",
+      "Vaccine development"
+    ],
+    "linkedin_url": "linkedin.com/in/sarahsmith949",
+    "h_index": 56,
+    "total_citations": 9959,
+    "total_publications": 64,
+    "data_quality_score": 0.91,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 76
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000003",
+    "full_name": "Dr. Raj Anderson",
+    "first_name": "Raj",
+    "last_name": "Anderson",
+    "title": "Assistant Professor",
+    "current_company": "Cornell University",
+    "department": "Immunology",
+    "location": "Chicago, IL",
+    "country": "Singapore",
+    "education": [
+      {
+        "institution": "Peking University",
+        "degree": "PhD",
+        "field": "Immunology",
+        "start_year": 2001,
+        "end_year": 2013
+      },
+      {
+        "institution": "University of Michigan",
+        "degree": "BS/MS",
+        "field": "Immunology",
+        "start_year": 2002,
+        "end_year": 2010
+      }
+    ],
+    "experience": [
+      {
+        "company": "Cornell University",
+        "position": "Assistant Professor",
+        "department": "Department of Immunology",
+        "start_date": "2012-08-24",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "University of Chicago",
+        "position": "Assistant Professor",
+        "department": "Department of Immunology",
+        "start_date": "2004-08-26",
+        "end_date": "2012-08-24",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Climate modeling",
+      "Protein folding",
+      "Neural networks",
+      "Stem cell research",
+      "Machine learning"
+    ],
+    "research_interests": [
+      "Synthetic biology",
+      "Genomics"
+    ],
+    "linkedin_url": "linkedin.com/in/rajanderson376",
+    "h_index": 38,
+    "total_citations": 5813,
+    "total_publications": 29,
+    "data_quality_score": 0.77,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 76
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000004",
+    "full_name": "Dr. Aisha Lee",
+    "first_name": "Aisha",
+    "last_name": "Lee",
+    "title": "Lab Director",
+    "current_company": "Karolinska Institute",
+    "department": "Chemistry",
+    "location": "Beijing, China",
+    "country": "Japan",
+    "education": [
+      {
+        "institution": "ETH Zurich",
+        "degree": "PhD",
+        "field": "Chemistry",
+        "start_year": 2009,
+        "end_year": 2015
+      },
+      {
+        "institution": "University of Toronto",
+        "degree": "BS/MS",
+        "field": "Chemistry",
+        "start_year": 1998,
+        "end_year": 2010
+      }
+    ],
+    "experience": [
+      {
+        "company": "Karolinska Institute",
+        "position": "Lab Director",
+        "department": "Department of Chemistry",
+        "start_date": "2018-08-23",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Johns Hopkins University",
+        "position": "Senior Scientist",
+        "department": "Department of Chemistry",
+        "start_date": "2010-08-25",
+        "end_date": "2018-08-23",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Protein folding",
+      "Drug discovery",
+      "Machine learning",
+      "Nanotechnology"
+    ],
+    "research_interests": [
+      "Precision medicine",
+      "Neurodegenerative diseases",
+      "Genomics",
+      "Artificial intelligence"
+    ],
+    "linkedin_url": "linkedin.com/in/aishalee324",
+    "h_index": 27,
+    "total_citations": 8848,
+    "total_publications": 141,
+    "data_quality_score": 0.73,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 76
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000005",
+    "full_name": "Dr. Anna Davis",
+    "first_name": "Anna",
+    "last_name": "Davis",
+    "title": "Principal Investigator",
+    "current_company": "Princeton University",
+    "department": "Quantum Computing",
+    "location": "Paris, France",
+    "country": "Canada",
+    "education": [
+      {
+        "institution": "Duke University",
+        "degree": "PhD",
+        "field": "Quantum Computing",
+        "start_year": 2009,
+        "end_year": 2010
+      },
+      {
+        "institution": "Technical University of Munich",
+        "degree": "BS/MS",
+        "field": "Quantum Computing",
+        "start_year": 2001,
+        "end_year": 2009
+      }
+    ],
+    "experience": [
+      {
+        "company": "Princeton University",
+        "position": "Principal Investigator",
+        "department": "Department of Quantum Computing",
+        "start_date": "2018-08-23",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Quantum mechanics",
+      "Brain-computer interfaces",
+      "Protein folding"
+    ],
+    "research_interests": [
+      "Renewable energy",
+      "Quantum mechanics",
+      "Vaccine development",
+      "Neurodegenerative diseases"
+    ],
+    "linkedin_url": "linkedin.com/in/annadavis261",
+    "h_index": 68,
+    "total_citations": 553,
+    "total_publications": 82,
+    "data_quality_score": 0.99,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 99
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000006",
+    "full_name": "Dr. Elizabeth Kim",
+    "first_name": "Elizabeth",
+    "last_name": "Kim",
+    "title": "Department Chair",
+    "current_company": "ETH Zurich",
+    "department": "Artificial Intelligence",
+    "location": "Paris, France",
+    "country": "USA",
+    "education": [
+      {
+        "institution": "University of Michigan",
+        "degree": "PhD",
+        "field": "Artificial Intelligence",
+        "start_year": 2009,
+        "end_year": 2011
+      },
+      {
+        "institution": "Princeton University",
+        "degree": "BS/MS",
+        "field": "Artificial Intelligence",
+        "start_year": 2000,
+        "end_year": 2006
+      }
+    ],
+    "experience": [
+      {
+        "company": "ETH Zurich",
+        "position": "Department Chair",
+        "department": "Department of Artificial Intelligence",
+        "start_date": "2017-08-23",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Materials engineering",
+      "Cancer immunotherapy",
+      "Quantum mechanics",
+      "Artificial intelligence",
+      "Vaccine development"
+    ],
+    "research_interests": [
+      "CRISPR gene editing",
+      "Machine learning"
+    ],
+    "linkedin_url": "linkedin.com/in/elizabethkim999",
+    "h_index": 20,
+    "total_citations": 1903,
+    "total_publications": 139,
+    "data_quality_score": 0.94,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 99
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000007",
+    "full_name": "Dr. Paul Rodriguez",
+    "first_name": "Paul",
+    "last_name": "Rodriguez",
+    "title": "Research Associate Professor",
+    "current_company": "Yale University",
+    "department": "Microbiology",
+    "location": "Sydney, Australia",
+    "country": "Germany",
+    "education": [
+      {
+        "institution": "Cambridge University",
+        "degree": "PhD",
+        "field": "Microbiology",
+        "start_year": 2004,
+        "end_year": 2014
+      },
+      {
+        "institution": "Tsinghua University",
+        "degree": "BS/MS",
+        "field": "Microbiology",
+        "start_year": 1998,
+        "end_year": 2009
+      }
+    ],
+    "experience": [
+      {
+        "company": "Yale University",
+        "position": "Research Associate Professor",
+        "department": "Department of Microbiology",
+        "start_date": "2013-08-24",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Technical University of Munich",
+        "position": "Assistant Professor",
+        "department": "Department of Microbiology",
+        "start_date": "2005-08-26",
+        "end_date": "2013-08-24",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Genomics",
+      "Artificial intelligence",
+      "Synthetic biology",
+      "Computational chemistry",
+      "Brain-computer interfaces"
+    ],
+    "research_interests": [
+      "Machine learning",
+      "Nanotechnology"
+    ],
+    "linkedin_url": "linkedin.com/in/paulrodriguez165",
+    "h_index": 53,
+    "total_citations": 844,
+    "total_publications": 73,
+    "data_quality_score": 0.88,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 75
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000008",
+    "full_name": "Dr. Robert Levy",
+    "first_name": "Robert",
+    "last_name": "Levy",
+    "title": "Postdoctoral Researcher",
+    "current_company": "University of California Berkeley",
+    "department": "Chemistry",
+    "location": "Shanghai, China",
+    "country": "Japan",
+    "education": [
+      {
+        "institution": "Tokyo University",
+        "degree": "PhD",
+        "field": "Chemistry",
+        "start_year": 2000,
+        "end_year": 2012
+      },
+      {
+        "institution": "Oxford University",
+        "degree": "BS/MS",
+        "field": "Chemistry",
+        "start_year": 2003,
+        "end_year": 2006
+      }
+    ],
+    "experience": [
+      {
+        "company": "University of California Berkeley",
+        "position": "Postdoctoral Researcher",
+        "department": "Department of Chemistry",
+        "start_date": "2021-08-22",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Brain-computer interfaces",
+      "Drug discovery",
+      "Materials engineering",
+      "Machine learning"
+    ],
+    "research_interests": [
+      "Neurodegenerative diseases",
+      "Climate modeling",
+      "Quantum mechanics"
+    ],
+    "linkedin_url": "linkedin.com/in/robertlevy199",
+    "h_index": 65,
+    "total_citations": 6304,
+    "total_publications": 123,
+    "data_quality_score": 0.82,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 98
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000009",
+    "full_name": "Dr. Patricia Ryan",
+    "first_name": "Patricia",
+    "last_name": "Ryan",
+    "title": "Associate Professor",
+    "current_company": "ETH Zurich",
+    "department": "Electrical Engineering",
+    "location": "New York, NY",
+    "country": "China",
+    "education": [
+      {
+        "institution": "Technical University of Munich",
+        "degree": "PhD",
+        "field": "Electrical Engineering",
+        "start_year": 2005,
+        "end_year": 2010
+      },
+      {
+        "institution": "Northwestern University",
+        "degree": "BS/MS",
+        "field": "Electrical Engineering",
+        "start_year": 1998,
+        "end_year": 2006
+      }
+    ],
+    "experience": [
+      {
+        "company": "ETH Zurich",
+        "position": "Associate Professor",
+        "department": "Department of Electrical Engineering",
+        "start_date": "2017-08-23",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Northwestern University",
+        "position": "Assistant Professor",
+        "department": "Department of Electrical Engineering",
+        "start_date": "2009-08-25",
+        "end_date": "2017-08-23",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Protein folding",
+      "Synthetic biology",
+      "Machine learning",
+      "Neural networks"
+    ],
+    "research_interests": [
+      "Brain-computer interfaces",
+      "Quantum mechanics",
+      "CRISPR gene editing"
+    ],
+    "linkedin_url": "linkedin.com/in/patriciaryan767",
+    "h_index": 79,
+    "total_citations": 741,
+    "total_publications": 38,
+    "data_quality_score": 0.98,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 82
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000010",
+    "full_name": "Dr. David Zhang",
+    "first_name": "David",
+    "last_name": "Zhang",
+    "title": "Research Associate Professor",
+    "current_company": "Australian National University",
+    "department": "Genetics",
+    "location": "Munich, Germany",
+    "country": "Canada",
+    "education": [
+      {
+        "institution": "Tsinghua University",
+        "degree": "PhD",
+        "field": "Genetics",
+        "start_year": 2006,
+        "end_year": 2010
+      },
+      {
+        "institution": "Columbia University",
+        "degree": "BS/MS",
+        "field": "Genetics",
+        "start_year": 2001,
+        "end_year": 2005
+      }
+    ],
+    "experience": [
+      {
+        "company": "Australian National University",
+        "position": "Research Associate Professor",
+        "department": "Department of Genetics",
+        "start_date": "2019-08-23",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Yale University",
+        "position": "Assistant Professor",
+        "department": "Department of Genetics",
+        "start_date": "2011-08-25",
+        "end_date": "2019-08-23",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Brain-computer interfaces",
+      "Materials engineering",
+      "Drug discovery",
+      "Climate modeling",
+      "Vaccine development",
+      "Quantum mechanics"
+    ],
+    "research_interests": [
+      "Precision medicine",
+      "Brain-computer interfaces"
+    ],
+    "linkedin_url": "linkedin.com/in/davidzhang162",
+    "h_index": 50,
+    "total_citations": 1436,
+    "total_publications": 27,
+    "data_quality_score": 0.88,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 91
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000011",
+    "full_name": "Dr. Hans Park",
+    "first_name": "Hans",
+    "last_name": "Park",
+    "title": "Associate Professor",
+    "current_company": "Columbia University",
+    "department": "Cell Biology",
+    "location": "Singapore",
+    "country": "Germany",
+    "education": [
+      {
+        "institution": "Harvard University",
+        "degree": "PhD",
+        "field": "Cell Biology",
+        "start_year": 2002,
+        "end_year": 2010
+      },
+      {
+        "institution": "Oxford University",
+        "degree": "BS/MS",
+        "field": "Cell Biology",
+        "start_year": 2005,
+        "end_year": 2006
+      }
+    ],
+    "experience": [
+      {
+        "company": "Columbia University",
+        "position": "Associate Professor",
+        "department": "Department of Cell Biology",
+        "start_date": "2019-08-23",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "University of California Berkeley",
+        "position": "Assistant Professor",
+        "department": "Department of Cell Biology",
+        "start_date": "2011-08-25",
+        "end_date": "2019-08-23",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Nanotechnology",
+      "Neural networks",
+      "Neurodegenerative diseases"
+    ],
+    "research_interests": [
+      "Precision medicine",
+      "Nanotechnology",
+      "Computational chemistry",
+      "Renewable energy"
+    ],
+    "linkedin_url": "linkedin.com/in/hanspark367",
+    "h_index": 36,
+    "total_citations": 5647,
+    "total_publications": 76,
+    "data_quality_score": 0.78,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 79
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000012",
+    "full_name": "Dr. Raj Murphy",
+    "first_name": "Raj",
+    "last_name": "Murphy",
+    "title": "Group Leader",
+    "current_company": "UCLA",
+    "department": "Materials Science",
+    "location": "Palo Alto, CA",
+    "country": "Australia",
+    "education": [
+      {
+        "institution": "Kyoto University",
+        "degree": "PhD",
+        "field": "Materials Science",
+        "start_year": 2001,
+        "end_year": 2010
+      },
+      {
+        "institution": "Tokyo University",
+        "degree": "BS/MS",
+        "field": "Materials Science",
+        "start_year": 2004,
+        "end_year": 2009
+      }
+    ],
+    "experience": [
+      {
+        "company": "UCLA",
+        "position": "Group Leader",
+        "department": "Department of Materials Science",
+        "start_date": "2024-08-21",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Computational chemistry",
+      "Protein folding",
+      "Drug discovery",
+      "Artificial intelligence"
+    ],
+    "research_interests": [
+      "Machine learning",
+      "Artificial intelligence"
+    ],
+    "linkedin_url": "linkedin.com/in/rajmurphy391",
+    "h_index": 30,
+    "total_citations": 7679,
+    "total_publications": 92,
+    "data_quality_score": 0.88,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 100
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000013",
+    "full_name": "Dr. Yuki Park",
+    "first_name": "Yuki",
+    "last_name": "Park",
+    "title": "Visiting Professor",
+    "current_company": "Stanford University",
+    "department": "Biochemistry",
+    "location": "Melbourne, Australia",
+    "country": "Australia",
+    "education": [
+      {
+        "institution": "Kyoto University",
+        "degree": "PhD",
+        "field": "Biochemistry",
+        "start_year": 2010,
+        "end_year": 2010
+      },
+      {
+        "institution": "Yale University",
+        "degree": "BS/MS",
+        "field": "Biochemistry",
+        "start_year": 1999,
+        "end_year": 2005
+      }
+    ],
+    "experience": [
+      {
+        "company": "Stanford University",
+        "position": "Visiting Professor",
+        "department": "Department of Biochemistry",
+        "start_date": "2011-08-25",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Oxford University",
+        "position": "Assistant Professor",
+        "department": "Department of Biochemistry",
+        "start_date": "2003-08-27",
+        "end_date": "2011-08-25",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Protein folding",
+      "Vaccine development",
+      "Climate modeling",
+      "Renewable energy"
+    ],
+    "research_interests": [
+      "Protein folding",
+      "Computational chemistry"
+    ],
+    "linkedin_url": "linkedin.com/in/yukipark600",
+    "h_index": 42,
+    "total_citations": 1332,
+    "total_publications": 38,
+    "data_quality_score": 0.89,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 83
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000014",
+    "full_name": "Dr. John Smith",
+    "first_name": "John",
+    "last_name": "Smith",
+    "title": "Senior Research Scientist",
+    "current_company": "McGill University",
+    "department": "Artificial Intelligence",
+    "location": "Toronto, Canada",
+    "country": "USA",
+    "education": [
+      {
+        "institution": "Yale University",
+        "degree": "PhD",
+        "field": "Artificial Intelligence",
+        "start_year": 2002,
+        "end_year": 2015
+      },
+      {
+        "institution": "Peking University",
+        "degree": "BS/MS",
+        "field": "Artificial Intelligence",
+        "start_year": 2003,
+        "end_year": 2010
+      }
+    ],
+    "experience": [
+      {
+        "company": "McGill University",
+        "position": "Senior Research Scientist",
+        "department": "Department of Artificial Intelligence",
+        "start_date": "2019-08-23",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Neural networks",
+      "Drug discovery",
+      "Brain-computer interfaces"
+    ],
+    "research_interests": [
+      "Artificial intelligence",
+      "Precision medicine"
+    ],
+    "linkedin_url": "linkedin.com/in/johnsmith665",
+    "h_index": 28,
+    "total_citations": 7541,
+    "total_publications": 47,
+    "data_quality_score": 0.71,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 86
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000015",
+    "full_name": "Dr. Ahmed Williams",
+    "first_name": "Ahmed",
+    "last_name": "Williams",
+    "title": "Research Fellow",
+    "current_company": "Imperial College London",
+    "department": "Quantum Computing",
+    "location": "Melbourne, Australia",
+    "country": "Switzerland",
+    "education": [
+      {
+        "institution": "Max Planck Institute",
+        "degree": "PhD",
+        "field": "Quantum Computing",
+        "start_year": 2010,
+        "end_year": 2010
+      },
+      {
+        "institution": "Imperial College London",
+        "degree": "BS/MS",
+        "field": "Quantum Computing",
+        "start_year": 2003,
+        "end_year": 2008
+      }
+    ],
+    "experience": [
+      {
+        "company": "Imperial College London",
+        "position": "Research Fellow",
+        "department": "Department of Quantum Computing",
+        "start_date": "2016-08-23",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Stem cell research",
+      "Nanotechnology",
+      "Neurodegenerative diseases",
+      "Cancer immunotherapy"
+    ],
+    "research_interests": [
+      "Renewable energy",
+      "Neurodegenerative diseases"
+    ],
+    "linkedin_url": "linkedin.com/in/ahmedwilliams921",
+    "h_index": 41,
+    "total_citations": 4871,
+    "total_publications": 55,
+    "data_quality_score": 0.94,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 78
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000016",
+    "full_name": "Dr. Matthew Williams",
+    "first_name": "Matthew",
+    "last_name": "Williams",
+    "title": "Postdoctoral Researcher",
+    "current_company": "Kyoto University",
+    "department": "Genetics",
+    "location": "Shanghai, China",
+    "country": "Germany",
+    "education": [
+      {
+        "institution": "National University of Singapore",
+        "degree": "PhD",
+        "field": "Genetics",
+        "start_year": 2007,
+        "end_year": 2012
+      },
+      {
+        "institution": "UCLA",
+        "degree": "BS/MS",
+        "field": "Genetics",
+        "start_year": 1998,
+        "end_year": 2006
+      }
+    ],
+    "experience": [
+      {
+        "company": "Kyoto University",
+        "position": "Postdoctoral Researcher",
+        "department": "Department of Genetics",
+        "start_date": "2025-08-21",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Renewable energy",
+      "Protein folding",
+      "Neural networks",
+      "Precision medicine",
+      "Artificial intelligence",
+      "Nanotechnology"
+    ],
+    "research_interests": [
+      "Genomics",
+      "Brain-computer interfaces",
+      "Renewable energy",
+      "Cancer immunotherapy"
+    ],
+    "linkedin_url": "linkedin.com/in/matthewwilliams218",
+    "h_index": 43,
+    "total_citations": 3425,
+    "total_publications": 82,
+    "data_quality_score": 0.71,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 94
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000017",
+    "full_name": "Dr. Margaret White",
+    "first_name": "Margaret",
+    "last_name": "White",
+    "title": "Staff Scientist",
+    "current_company": "University of Toronto",
+    "department": "Data Science",
+    "location": "Zurich, Switzerland",
+    "country": "USA",
+    "education": [
+      {
+        "institution": "Caltech",
+        "degree": "PhD",
+        "field": "Data Science",
+        "start_year": 2001,
+        "end_year": 2013
+      },
+      {
+        "institution": "Johns Hopkins University",
+        "degree": "BS/MS",
+        "field": "Data Science",
+        "start_year": 1999,
+        "end_year": 2005
+      }
+    ],
+    "experience": [
+      {
+        "company": "University of Toronto",
+        "position": "Staff Scientist",
+        "department": "Department of Data Science",
+        "start_date": "2014-08-24",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Artificial intelligence",
+      "Neurodegenerative diseases",
+      "Neural networks",
+      "Renewable energy"
+    ],
+    "research_interests": [
+      "Renewable energy",
+      "Quantum mechanics",
+      "Vaccine development",
+      "Computational chemistry"
+    ],
+    "linkedin_url": "linkedin.com/in/margaretwhite416",
+    "h_index": 62,
+    "total_citations": 5844,
+    "total_publications": 118,
+    "data_quality_score": 0.91,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 92
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000018",
+    "full_name": "Dr. William Gonzalez",
+    "first_name": "William",
+    "last_name": "Gonzalez",
+    "title": "Senior Scientist",
+    "current_company": "National University of Singapore",
+    "department": "Quantum Computing",
+    "location": "Boston, MA",
+    "country": "Canada",
+    "education": [
+      {
+        "institution": "University College London",
+        "degree": "PhD",
+        "field": "Quantum Computing",
+        "start_year": 2002,
+        "end_year": 2014
+      },
+      {
+        "institution": "UCLA",
+        "degree": "BS/MS",
+        "field": "Quantum Computing",
+        "start_year": 2001,
+        "end_year": 2009
+      }
+    ],
+    "experience": [
+      {
+        "company": "National University of Singapore",
+        "position": "Senior Scientist",
+        "department": "Department of Quantum Computing",
+        "start_date": "2012-08-24",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Climate modeling",
+      "Neurodegenerative diseases",
+      "Renewable energy",
+      "Synthetic biology",
+      "Computational chemistry"
+    ],
+    "research_interests": [
+      "Climate modeling",
+      "Computational chemistry",
+      "Materials engineering"
+    ],
+    "linkedin_url": "linkedin.com/in/williamgonzalez912",
+    "h_index": 31,
+    "total_citations": 1889,
+    "total_publications": 87,
+    "data_quality_score": 0.85,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 95
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000019",
+    "full_name": "Dr. Michelle Thompson",
+    "first_name": "Michelle",
+    "last_name": "Thompson",
+    "title": "Postdoctoral Researcher",
+    "current_company": "Cambridge University",
+    "department": "Quantum Computing",
+    "location": "Berlin, Germany",
+    "country": "UK",
+    "education": [
+      {
+        "institution": "Columbia University",
+        "degree": "PhD",
+        "field": "Quantum Computing",
+        "start_year": 2003,
+        "end_year": 2011
+      },
+      {
+        "institution": "Princeton University",
+        "degree": "BS/MS",
+        "field": "Quantum Computing",
+        "start_year": 1995,
+        "end_year": 2005
+      }
+    ],
+    "experience": [
+      {
+        "company": "Cambridge University",
+        "position": "Postdoctoral Researcher",
+        "department": "Department of Quantum Computing",
+        "start_date": "2022-08-22",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Neurodegenerative diseases",
+      "Precision medicine",
+      "Climate modeling",
+      "Genomics",
+      "Materials engineering",
+      "Brain-computer interfaces"
+    ],
+    "research_interests": [
+      "Drug discovery",
+      "Cancer immunotherapy"
+    ],
+    "linkedin_url": "linkedin.com/in/michellethompson868",
+    "h_index": 23,
+    "total_citations": 7465,
+    "total_publications": 71,
+    "data_quality_score": 0.75,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 97
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000020",
+    "full_name": "Dr. Kimberly Patel",
+    "first_name": "Kimberly",
+    "last_name": "Patel",
+    "title": "Visiting Professor",
+    "current_company": "University of California Berkeley",
+    "department": "Immunology",
+    "location": "Tokyo, Japan",
+    "country": "Singapore",
+    "education": [
+      {
+        "institution": "Kyoto University",
+        "degree": "PhD",
+        "field": "Immunology",
+        "start_year": 2001,
+        "end_year": 2013
+      },
+      {
+        "institution": "Yale University",
+        "degree": "BS/MS",
+        "field": "Immunology",
+        "start_year": 2002,
+        "end_year": 2010
+      }
+    ],
+    "experience": [
+      {
+        "company": "University of California Berkeley",
+        "position": "Visiting Professor",
+        "department": "Department of Immunology",
+        "start_date": "2017-08-23",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Cornell University",
+        "position": "Assistant Professor",
+        "department": "Department of Immunology",
+        "start_date": "2009-08-25",
+        "end_date": "2017-08-23",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Nanotechnology",
+      "Computational chemistry",
+      "Neurodegenerative diseases",
+      "Synthetic biology",
+      "Stem cell research",
+      "Artificial intelligence"
+    ],
+    "research_interests": [
+      "Synthetic biology",
+      "Protein folding",
+      "Machine learning"
+    ],
+    "linkedin_url": "linkedin.com/in/kimberlypatel960",
+    "h_index": 45,
+    "total_citations": 9040,
+    "total_publications": 139,
+    "data_quality_score": 0.89,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 83
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000021",
+    "full_name": "Dr. Mark Jones",
+    "first_name": "Mark",
+    "last_name": "Jones",
+    "title": "Postdoctoral Researcher",
+    "current_company": "Cornell University",
+    "department": "Pharmacology",
+    "location": "Cambridge, UK",
+    "country": "Switzerland",
+    "education": [
+      {
+        "institution": "Columbia University",
+        "degree": "PhD",
+        "field": "Pharmacology",
+        "start_year": 2005,
+        "end_year": 2014
+      },
+      {
+        "institution": "Cambridge University",
+        "degree": "BS/MS",
+        "field": "Pharmacology",
+        "start_year": 1997,
+        "end_year": 2006
+      }
+    ],
+    "experience": [
+      {
+        "company": "Cornell University",
+        "position": "Postdoctoral Researcher",
+        "department": "Department of Pharmacology",
+        "start_date": "2022-08-22",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Neural networks",
+      "Neurodegenerative diseases",
+      "Precision medicine",
+      "Renewable energy"
+    ],
+    "research_interests": [
+      "Synthetic biology",
+      "Neurodegenerative diseases",
+      "CRISPR gene editing",
+      "Climate modeling"
+    ],
+    "linkedin_url": "linkedin.com/in/markjones952",
+    "h_index": 63,
+    "total_citations": 6881,
+    "total_publications": 20,
+    "data_quality_score": 0.96,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 99
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000022",
+    "full_name": "Dr. Andrew Chen",
+    "first_name": "Andrew",
+    "last_name": "Chen",
+    "title": "Professor",
+    "current_company": "Kyoto University",
+    "department": "Applied Mathematics",
+    "location": "Berlin, Germany",
+    "country": "USA",
+    "education": [
+      {
+        "institution": "Princeton University",
+        "degree": "PhD",
+        "field": "Applied Mathematics",
+        "start_year": 2006,
+        "end_year": 2013
+      },
+      {
+        "institution": "Duke University",
+        "degree": "BS/MS",
+        "field": "Applied Mathematics",
+        "start_year": 2002,
+        "end_year": 2006
+      }
+    ],
+    "experience": [
+      {
+        "company": "Kyoto University",
+        "position": "Professor",
+        "department": "Department of Applied Mathematics",
+        "start_date": "2021-08-22",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "University of Pennsylvania",
+        "position": "Assistant Professor",
+        "department": "Department of Applied Mathematics",
+        "start_date": "2013-08-24",
+        "end_date": "2021-08-22",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Renewable energy",
+      "Genomics",
+      "Stem cell research",
+      "Synthetic biology",
+      "Drug discovery",
+      "Vaccine development"
+    ],
+    "research_interests": [
+      "Cancer immunotherapy",
+      "Genomics",
+      "Nanotechnology",
+      "Neural networks"
+    ],
+    "linkedin_url": "linkedin.com/in/andrewchen758",
+    "h_index": 64,
+    "total_citations": 2723,
+    "total_publications": 133,
+    "data_quality_score": 0.75,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 83
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000023",
+    "full_name": "Dr. Matthew Lee",
+    "first_name": "Matthew",
+    "last_name": "Lee",
+    "title": "Group Leader",
+    "current_company": "University of Pennsylvania",
+    "department": "Materials Science",
+    "location": "Boston, MA",
+    "country": "Australia",
+    "education": [
+      {
+        "institution": "Columbia University",
+        "degree": "PhD",
+        "field": "Materials Science",
+        "start_year": 2006,
+        "end_year": 2012
+      },
+      {
+        "institution": "National University of Singapore",
+        "degree": "BS/MS",
+        "field": "Materials Science",
+        "start_year": 1999,
+        "end_year": 2005
+      }
+    ],
+    "experience": [
+      {
+        "company": "University of Pennsylvania",
+        "position": "Group Leader",
+        "department": "Department of Materials Science",
+        "start_date": "2018-08-23",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Artificial intelligence",
+      "Machine learning",
+      "Neural networks"
+    ],
+    "research_interests": [
+      "CRISPR gene editing",
+      "Cancer immunotherapy",
+      "Machine learning",
+      "Climate modeling"
+    ],
+    "linkedin_url": "linkedin.com/in/matthewlee959",
+    "h_index": 12,
+    "total_citations": 2996,
+    "total_publications": 76,
+    "data_quality_score": 0.74,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 96
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000024",
+    "full_name": "Dr. Linda Schmidt",
+    "first_name": "Linda",
+    "last_name": "Schmidt",
+    "title": "Group Leader",
+    "current_company": "University of Pennsylvania",
+    "department": "Nanotechnology",
+    "location": "Singapore",
+    "country": "USA",
+    "education": [
+      {
+        "institution": "Yale University",
+        "degree": "PhD",
+        "field": "Nanotechnology",
+        "start_year": 2005,
+        "end_year": 2011
+      },
+      {
+        "institution": "Max Planck Institute",
+        "degree": "BS/MS",
+        "field": "Nanotechnology",
+        "start_year": 1997,
+        "end_year": 2007
+      }
+    ],
+    "experience": [
+      {
+        "company": "University of Pennsylvania",
+        "position": "Group Leader",
+        "department": "Department of Nanotechnology",
+        "start_date": "2024-08-21",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Precision medicine",
+      "Genomics",
+      "Nanotechnology",
+      "Climate modeling",
+      "Neural networks"
+    ],
+    "research_interests": [
+      "Machine learning",
+      "Quantum mechanics",
+      "Vaccine development",
+      "Precision medicine"
+    ],
+    "linkedin_url": "linkedin.com/in/lindaschmidt915",
+    "h_index": 15,
+    "total_citations": 6188,
+    "total_publications": 124,
+    "data_quality_score": 0.9,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 77
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000025",
+    "full_name": "Dr. Steven Murphy",
+    "first_name": "Steven",
+    "last_name": "Murphy",
+    "title": "Professor",
+    "current_company": "McGill University",
+    "department": "Mechanical Engineering",
+    "location": "Munich, Germany",
+    "country": "Switzerland",
+    "education": [
+      {
+        "institution": "Tsinghua University",
+        "degree": "PhD",
+        "field": "Mechanical Engineering",
+        "start_year": 2007,
+        "end_year": 2010
+      },
+      {
+        "institution": "Tsinghua University",
+        "degree": "BS/MS",
+        "field": "Mechanical Engineering",
+        "start_year": 2000,
+        "end_year": 2010
+      }
+    ],
+    "experience": [
+      {
+        "company": "McGill University",
+        "position": "Professor",
+        "department": "Department of Mechanical Engineering",
+        "start_date": "2011-08-25",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Tsinghua University",
+        "position": "Assistant Professor",
+        "department": "Department of Mechanical Engineering",
+        "start_date": "2003-08-27",
+        "end_date": "2011-08-25",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Stem cell research",
+      "Computational chemistry",
+      "Protein folding",
+      "Materials engineering",
+      "Synthetic biology",
+      "Climate modeling"
+    ],
+    "research_interests": [
+      "Precision medicine",
+      "Protein folding",
+      "Renewable energy",
+      "Machine learning"
+    ],
+    "linkedin_url": "linkedin.com/in/stevenmurphy950",
+    "h_index": 21,
+    "total_citations": 5069,
+    "total_publications": 130,
+    "data_quality_score": 0.77,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 89
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000026",
+    "full_name": "Dr. Andrew Bernard",
+    "first_name": "Andrew",
+    "last_name": "Bernard",
+    "title": "Research Director",
+    "current_company": "Technical University of Munich",
+    "department": "Neuroscience",
+    "location": "London, UK",
+    "country": "Canada",
+    "education": [
+      {
+        "institution": "Northwestern University",
+        "degree": "PhD",
+        "field": "Neuroscience",
+        "start_year": 2005,
+        "end_year": 2011
+      },
+      {
+        "institution": "Australian National University",
+        "degree": "BS/MS",
+        "field": "Neuroscience",
+        "start_year": 1998,
+        "end_year": 2007
+      }
+    ],
+    "experience": [
+      {
+        "company": "Technical University of Munich",
+        "position": "Research Director",
+        "department": "Department of Neuroscience",
+        "start_date": "2013-08-24",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Yale University",
+        "position": "Senior Scientist",
+        "department": "Department of Neuroscience",
+        "start_date": "2005-08-26",
+        "end_date": "2013-08-24",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Brain-computer interfaces",
+      "Cancer immunotherapy",
+      "Computational chemistry",
+      "Climate modeling",
+      "Neural networks"
+    ],
+    "research_interests": [
+      "Neurodegenerative diseases",
+      "Materials engineering"
+    ],
+    "linkedin_url": "linkedin.com/in/andrewbernard668",
+    "h_index": 40,
+    "total_citations": 8300,
+    "total_publications": 140,
+    "data_quality_score": 0.83,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 75
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000027",
+    "full_name": "Dr. Jennifer Jackson",
+    "first_name": "Jennifer",
+    "last_name": "Jackson",
+    "title": "Senior Scientist",
+    "current_company": "Duke University",
+    "department": "Nanotechnology",
+    "location": "Oxford, UK",
+    "country": "China",
+    "education": [
+      {
+        "institution": "Max Planck Institute",
+        "degree": "PhD",
+        "field": "Nanotechnology",
+        "start_year": 2004,
+        "end_year": 2015
+      },
+      {
+        "institution": "University College London",
+        "degree": "BS/MS",
+        "field": "Nanotechnology",
+        "start_year": 2002,
+        "end_year": 2009
+      }
+    ],
+    "experience": [
+      {
+        "company": "Duke University",
+        "position": "Senior Scientist",
+        "department": "Department of Nanotechnology",
+        "start_date": "2017-08-23",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Artificial intelligence",
+      "Synthetic biology",
+      "Protein folding",
+      "Vaccine development",
+      "Brain-computer interfaces"
+    ],
+    "research_interests": [
+      "Quantum mechanics",
+      "Climate modeling"
+    ],
+    "linkedin_url": "linkedin.com/in/jenniferjackson423",
+    "h_index": 25,
+    "total_citations": 9279,
+    "total_publications": 62,
+    "data_quality_score": 0.76,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 98
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000028",
+    "full_name": "Dr. Donald Moore",
+    "first_name": "Donald",
+    "last_name": "Moore",
+    "title": "Research Scientist",
+    "current_company": "Cornell University",
+    "department": "Genetics",
+    "location": "Toronto, Canada",
+    "country": "Switzerland",
+    "education": [
+      {
+        "institution": "Princeton University",
+        "degree": "PhD",
+        "field": "Genetics",
+        "start_year": 2003,
+        "end_year": 2012
+      },
+      {
+        "institution": "University of Chicago",
+        "degree": "BS/MS",
+        "field": "Genetics",
+        "start_year": 1999,
+        "end_year": 2005
+      }
+    ],
+    "experience": [
+      {
+        "company": "Cornell University",
+        "position": "Research Scientist",
+        "department": "Department of Genetics",
+        "start_date": "2014-08-24",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "CRISPR gene editing",
+      "Nanotechnology",
+      "Brain-computer interfaces",
+      "Vaccine development",
+      "Drug discovery"
+    ],
+    "research_interests": [
+      "Materials engineering",
+      "Quantum mechanics",
+      "Cancer immunotherapy",
+      "Vaccine development"
+    ],
+    "linkedin_url": "linkedin.com/in/donaldmoore580",
+    "h_index": 71,
+    "total_citations": 7716,
+    "total_publications": 102,
+    "data_quality_score": 0.76,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 76
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000029",
+    "full_name": "Dr. Thomas Singh",
+    "first_name": "Thomas",
+    "last_name": "Singh",
+    "title": "Assistant Professor",
+    "current_company": "Max Planck Institute",
+    "department": "Electrical Engineering",
+    "location": "Seattle, WA",
+    "country": "UK",
+    "education": [
+      {
+        "institution": "Caltech",
+        "degree": "PhD",
+        "field": "Electrical Engineering",
+        "start_year": 2001,
+        "end_year": 2014
+      },
+      {
+        "institution": "University of California Berkeley",
+        "degree": "BS/MS",
+        "field": "Electrical Engineering",
+        "start_year": 1997,
+        "end_year": 2006
+      }
+    ],
+    "experience": [
+      {
+        "company": "Max Planck Institute",
+        "position": "Assistant Professor",
+        "department": "Department of Electrical Engineering",
+        "start_date": "2013-08-24",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "UCLA",
+        "position": "Assistant Professor",
+        "department": "Department of Electrical Engineering",
+        "start_date": "2005-08-26",
+        "end_date": "2013-08-24",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Quantum mechanics",
+      "Brain-computer interfaces",
+      "Neurodegenerative diseases",
+      "Machine learning"
+    ],
+    "research_interests": [
+      "Genomics",
+      "Synthetic biology",
+      "Precision medicine",
+      "Vaccine development"
+    ],
+    "linkedin_url": "linkedin.com/in/thomassingh980",
+    "h_index": 64,
+    "total_citations": 5503,
+    "total_publications": 30,
+    "data_quality_score": 0.88,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 98
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000030",
+    "full_name": "Dr. Michael Wilson",
+    "first_name": "Michael",
+    "last_name": "Wilson",
+    "title": "Lab Director",
+    "current_company": "University of Pennsylvania",
+    "department": "Quantum Computing",
+    "location": "Zurich, Switzerland",
+    "country": "Japan",
+    "education": [
+      {
+        "institution": "Harvard University",
+        "degree": "PhD",
+        "field": "Quantum Computing",
+        "start_year": 2002,
+        "end_year": 2011
+      },
+      {
+        "institution": "University of Chicago",
+        "degree": "BS/MS",
+        "field": "Quantum Computing",
+        "start_year": 2003,
+        "end_year": 2005
+      }
+    ],
+    "experience": [
+      {
+        "company": "University of Pennsylvania",
+        "position": "Lab Director",
+        "department": "Department of Quantum Computing",
+        "start_date": "2023-08-22",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Stanford University",
+        "position": "Senior Scientist",
+        "department": "Department of Quantum Computing",
+        "start_date": "2015-08-24",
+        "end_date": "2023-08-22",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Vaccine development",
+      "CRISPR gene editing",
+      "Machine learning",
+      "Nanotechnology",
+      "Computational chemistry",
+      "Artificial intelligence"
+    ],
+    "research_interests": [
+      "Neural networks",
+      "Machine learning",
+      "Protein folding"
+    ],
+    "linkedin_url": "linkedin.com/in/michaelwilson906",
+    "h_index": 35,
+    "total_citations": 7465,
+    "total_publications": 44,
+    "data_quality_score": 0.86,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 95
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000031",
+    "full_name": "Dr. Barbara Moore",
+    "first_name": "Barbara",
+    "last_name": "Moore",
+    "title": "Assistant Professor",
+    "current_company": "Princeton University",
+    "department": "Molecular Biology",
+    "location": "Seattle, WA",
+    "country": "China",
+    "education": [
+      {
+        "institution": "Cambridge University",
+        "degree": "PhD",
+        "field": "Molecular Biology",
+        "start_year": 2004,
+        "end_year": 2014
+      },
+      {
+        "institution": "Cornell University",
+        "degree": "BS/MS",
+        "field": "Molecular Biology",
+        "start_year": 2002,
+        "end_year": 2005
+      }
+    ],
+    "experience": [
+      {
+        "company": "Princeton University",
+        "position": "Assistant Professor",
+        "department": "Department of Molecular Biology",
+        "start_date": "2018-08-23",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "University College London",
+        "position": "Assistant Professor",
+        "department": "Department of Molecular Biology",
+        "start_date": "2010-08-25",
+        "end_date": "2018-08-23",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Computational chemistry",
+      "Brain-computer interfaces",
+      "Materials engineering",
+      "Synthetic biology",
+      "Neural networks"
+    ],
+    "research_interests": [
+      "CRISPR gene editing",
+      "Neurodegenerative diseases",
+      "Renewable energy",
+      "Protein folding"
+    ],
+    "linkedin_url": "linkedin.com/in/barbaramoore126",
+    "h_index": 21,
+    "total_citations": 4250,
+    "total_publications": 20,
+    "data_quality_score": 1.0,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 96
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000032",
+    "full_name": "Dr. Pierre Moore",
+    "first_name": "Pierre",
+    "last_name": "Moore",
+    "title": "Principal Investigator",
+    "current_company": "Harvard University",
+    "department": "Biophysics",
+    "location": "Beijing, China",
+    "country": "Japan",
+    "education": [
+      {
+        "institution": "University of Michigan",
+        "degree": "PhD",
+        "field": "Biophysics",
+        "start_year": 2010,
+        "end_year": 2013
+      },
+      {
+        "institution": "University of Michigan",
+        "degree": "BS/MS",
+        "field": "Biophysics",
+        "start_year": 1997,
+        "end_year": 2009
+      }
+    ],
+    "experience": [
+      {
+        "company": "Harvard University",
+        "position": "Principal Investigator",
+        "department": "Department of Biophysics",
+        "start_date": "2019-08-23",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Materials engineering",
+      "Artificial intelligence",
+      "Neurodegenerative diseases"
+    ],
+    "research_interests": [
+      "Renewable energy",
+      "Quantum mechanics",
+      "Stem cell research"
+    ],
+    "linkedin_url": "linkedin.com/in/pierremoore437",
+    "h_index": 62,
+    "total_citations": 8617,
+    "total_publications": 88,
+    "data_quality_score": 0.9,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 87
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000033",
+    "full_name": "Dr. Pierre Sato",
+    "first_name": "Pierre",
+    "last_name": "Sato",
+    "title": "Group Leader",
+    "current_company": "Harvard University",
+    "department": "Chemistry",
+    "location": "Boston, MA",
+    "country": "Australia",
+    "education": [
+      {
+        "institution": "University of Chicago",
+        "degree": "PhD",
+        "field": "Chemistry",
+        "start_year": 2004,
+        "end_year": 2012
+      },
+      {
+        "institution": "Max Planck Institute",
+        "degree": "BS/MS",
+        "field": "Chemistry",
+        "start_year": 2001,
+        "end_year": 2009
+      }
+    ],
+    "experience": [
+      {
+        "company": "Harvard University",
+        "position": "Group Leader",
+        "department": "Department of Chemistry",
+        "start_date": "2012-08-24",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Neurodegenerative diseases",
+      "CRISPR gene editing",
+      "Climate modeling",
+      "Computational chemistry",
+      "Artificial intelligence",
+      "Vaccine development"
+    ],
+    "research_interests": [
+      "Synthetic biology",
+      "CRISPR gene editing",
+      "Climate modeling"
+    ],
+    "linkedin_url": "linkedin.com/in/pierresato373",
+    "h_index": 80,
+    "total_citations": 2646,
+    "total_publications": 88,
+    "data_quality_score": 0.83,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 97
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000034",
+    "full_name": "Dr. Ashley Davis",
+    "first_name": "Ashley",
+    "last_name": "Davis",
+    "title": "Clinical Professor",
+    "current_company": "MIT",
+    "department": "Immunology",
+    "location": "Berkeley, CA",
+    "country": "Japan",
+    "education": [
+      {
+        "institution": "University College London",
+        "degree": "PhD",
+        "field": "Immunology",
+        "start_year": 2002,
+        "end_year": 2012
+      },
+      {
+        "institution": "Stanford University",
+        "degree": "BS/MS",
+        "field": "Immunology",
+        "start_year": 2003,
+        "end_year": 2008
+      }
+    ],
+    "experience": [
+      {
+        "company": "MIT",
+        "position": "Clinical Professor",
+        "department": "Department of Immunology",
+        "start_date": "2024-08-21",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Yale University",
+        "position": "Assistant Professor",
+        "department": "Department of Immunology",
+        "start_date": "2016-08-23",
+        "end_date": "2024-08-21",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Drug discovery",
+      "Materials engineering",
+      "Vaccine development"
+    ],
+    "research_interests": [
+      "Protein folding",
+      "Neurodegenerative diseases",
+      "Materials engineering",
+      "Brain-computer interfaces"
+    ],
+    "linkedin_url": "linkedin.com/in/ashleydavis349",
+    "h_index": 68,
+    "total_citations": 9531,
+    "total_publications": 52,
+    "data_quality_score": 0.82,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 94
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000035",
+    "full_name": "Dr. Steven Hassan",
+    "first_name": "Steven",
+    "last_name": "Hassan",
+    "title": "Assistant Professor",
+    "current_company": "Yale University",
+    "department": "Pharmacology",
+    "location": "Singapore",
+    "country": "Japan",
+    "education": [
+      {
+        "institution": "Karolinska Institute",
+        "degree": "PhD",
+        "field": "Pharmacology",
+        "start_year": 2006,
+        "end_year": 2012
+      },
+      {
+        "institution": "University of Michigan",
+        "degree": "BS/MS",
+        "field": "Pharmacology",
+        "start_year": 1995,
+        "end_year": 2007
+      }
+    ],
+    "experience": [
+      {
+        "company": "Yale University",
+        "position": "Assistant Professor",
+        "department": "Department of Pharmacology",
+        "start_date": "2014-08-24",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Columbia University",
+        "position": "Assistant Professor",
+        "department": "Department of Pharmacology",
+        "start_date": "2006-08-26",
+        "end_date": "2014-08-24",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Synthetic biology",
+      "Brain-computer interfaces",
+      "Materials engineering",
+      "Artificial intelligence"
+    ],
+    "research_interests": [
+      "Brain-computer interfaces",
+      "Nanotechnology",
+      "Genomics"
+    ],
+    "linkedin_url": "linkedin.com/in/stevenhassan566",
+    "h_index": 51,
+    "total_citations": 3590,
+    "total_publications": 76,
+    "data_quality_score": 0.87,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 82
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000036",
+    "full_name": "Dr. Hans Zhang",
+    "first_name": "Hans",
+    "last_name": "Zhang",
+    "title": "Research Director",
+    "current_company": "Harvard University",
+    "department": "Environmental Science",
+    "location": "Singapore",
+    "country": "Singapore",
+    "education": [
+      {
+        "institution": "Caltech",
+        "degree": "PhD",
+        "field": "Environmental Science",
+        "start_year": 2006,
+        "end_year": 2013
+      },
+      {
+        "institution": "Princeton University",
+        "degree": "BS/MS",
+        "field": "Environmental Science",
+        "start_year": 2002,
+        "end_year": 2005
+      }
+    ],
+    "experience": [
+      {
+        "company": "Harvard University",
+        "position": "Research Director",
+        "department": "Department of Environmental Science",
+        "start_date": "2023-08-22",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "University of Michigan",
+        "position": "Senior Scientist",
+        "department": "Department of Environmental Science",
+        "start_date": "2015-08-24",
+        "end_date": "2023-08-22",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Synthetic biology",
+      "Quantum mechanics",
+      "Computational chemistry"
+    ],
+    "research_interests": [
+      "Cancer immunotherapy",
+      "Drug discovery",
+      "Neurodegenerative diseases"
+    ],
+    "linkedin_url": "linkedin.com/in/hanszhang991",
+    "h_index": 29,
+    "total_citations": 1725,
+    "total_publications": 135,
+    "data_quality_score": 0.93,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 83
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000037",
+    "full_name": "Dr. Nancy Bernard",
+    "first_name": "Nancy",
+    "last_name": "Bernard",
+    "title": "Assistant Professor",
+    "current_company": "Karolinska Institute",
+    "department": "Materials Science",
+    "location": "Berlin, Germany",
+    "country": "Australia",
+    "education": [
+      {
+        "institution": "Peking University",
+        "degree": "PhD",
+        "field": "Materials Science",
+        "start_year": 2010,
+        "end_year": 2014
+      },
+      {
+        "institution": "Technical University of Munich",
+        "degree": "BS/MS",
+        "field": "Materials Science",
+        "start_year": 2000,
+        "end_year": 2010
+      }
+    ],
+    "experience": [
+      {
+        "company": "Karolinska Institute",
+        "position": "Assistant Professor",
+        "department": "Department of Materials Science",
+        "start_date": "2014-08-24",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Tokyo University",
+        "position": "Assistant Professor",
+        "department": "Department of Materials Science",
+        "start_date": "2006-08-26",
+        "end_date": "2014-08-24",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Nanotechnology",
+      "Neural networks",
+      "Machine learning"
+    ],
+    "research_interests": [
+      "Vaccine development",
+      "Machine learning",
+      "Neural networks",
+      "Neurodegenerative diseases"
+    ],
+    "linkedin_url": "linkedin.com/in/nancybernard200",
+    "h_index": 22,
+    "total_citations": 7769,
+    "total_publications": 57,
+    "data_quality_score": 0.91,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 75
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000038",
+    "full_name": "Dr. John Lee",
+    "first_name": "John",
+    "last_name": "Lee",
+    "title": "Department Chair",
+    "current_company": "University of California Berkeley",
+    "department": "Applied Mathematics",
+    "location": "Shanghai, China",
+    "country": "Switzerland",
+    "education": [
+      {
+        "institution": "Johns Hopkins University",
+        "degree": "PhD",
+        "field": "Applied Mathematics",
+        "start_year": 2006,
+        "end_year": 2011
+      },
+      {
+        "institution": "Northwestern University",
+        "degree": "BS/MS",
+        "field": "Applied Mathematics",
+        "start_year": 2003,
+        "end_year": 2008
+      }
+    ],
+    "experience": [
+      {
+        "company": "University of California Berkeley",
+        "position": "Department Chair",
+        "department": "Department of Applied Mathematics",
+        "start_date": "2016-08-23",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Stem cell research",
+      "Neural networks",
+      "Genomics",
+      "Machine learning"
+    ],
+    "research_interests": [
+      "Precision medicine",
+      "Drug discovery",
+      "Machine learning"
+    ],
+    "linkedin_url": "linkedin.com/in/johnlee572",
+    "h_index": 42,
+    "total_citations": 8029,
+    "total_publications": 80,
+    "data_quality_score": 0.9,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 100
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000039",
+    "full_name": "Dr. Sandra Jackson",
+    "first_name": "Sandra",
+    "last_name": "Jackson",
+    "title": "Assistant Professor",
+    "current_company": "Columbia University",
+    "department": "Computational Biology",
+    "location": "Munich, Germany",
+    "country": "Canada",
+    "education": [
+      {
+        "institution": "Australian National University",
+        "degree": "PhD",
+        "field": "Computational Biology",
+        "start_year": 2005,
+        "end_year": 2014
+      },
+      {
+        "institution": "UCLA",
+        "degree": "BS/MS",
+        "field": "Computational Biology",
+        "start_year": 2005,
+        "end_year": 2008
+      }
+    ],
+    "experience": [
+      {
+        "company": "Columbia University",
+        "position": "Assistant Professor",
+        "department": "Department of Computational Biology",
+        "start_date": "2014-08-24",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Yale University",
+        "position": "Assistant Professor",
+        "department": "Department of Computational Biology",
+        "start_date": "2006-08-26",
+        "end_date": "2014-08-24",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Genomics",
+      "Materials engineering",
+      "Quantum mechanics",
+      "Machine learning"
+    ],
+    "research_interests": [
+      "Precision medicine",
+      "Artificial intelligence",
+      "Vaccine development"
+    ],
+    "linkedin_url": "linkedin.com/in/sandrajackson816",
+    "h_index": 47,
+    "total_citations": 859,
+    "total_publications": 116,
+    "data_quality_score": 0.78,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 93
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000040",
+    "full_name": "Dr. Anna Ryan",
+    "first_name": "Anna",
+    "last_name": "Ryan",
+    "title": "Clinical Professor",
+    "current_company": "University of California Berkeley",
+    "department": "Environmental Science",
+    "location": "San Diego, CA",
+    "country": "Switzerland",
+    "education": [
+      {
+        "institution": "Caltech",
+        "degree": "PhD",
+        "field": "Environmental Science",
+        "start_year": 2004,
+        "end_year": 2011
+      },
+      {
+        "institution": "Imperial College London",
+        "degree": "BS/MS",
+        "field": "Environmental Science",
+        "start_year": 1998,
+        "end_year": 2010
+      }
+    ],
+    "experience": [
+      {
+        "company": "University of California Berkeley",
+        "position": "Clinical Professor",
+        "department": "Department of Environmental Science",
+        "start_date": "2022-08-22",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "University of Toronto",
+        "position": "Assistant Professor",
+        "department": "Department of Environmental Science",
+        "start_date": "2014-08-24",
+        "end_date": "2022-08-22",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "CRISPR gene editing",
+      "Vaccine development",
+      "Synthetic biology"
+    ],
+    "research_interests": [
+      "Precision medicine",
+      "Artificial intelligence"
+    ],
+    "linkedin_url": "linkedin.com/in/annaryan849",
+    "h_index": 26,
+    "total_citations": 1976,
+    "total_publications": 90,
+    "data_quality_score": 0.8,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 88
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000041",
+    "full_name": "Dr. Elizabeth Gonzalez",
+    "first_name": "Elizabeth",
+    "last_name": "Gonzalez",
+    "title": "Visiting Professor",
+    "current_company": "Yale University",
+    "department": "Applied Mathematics",
+    "location": "Melbourne, Australia",
+    "country": "Singapore",
+    "education": [
+      {
+        "institution": "University of Michigan",
+        "degree": "PhD",
+        "field": "Applied Mathematics",
+        "start_year": 2008,
+        "end_year": 2012
+      },
+      {
+        "institution": "Columbia University",
+        "degree": "BS/MS",
+        "field": "Applied Mathematics",
+        "start_year": 1999,
+        "end_year": 2008
+      }
+    ],
+    "experience": [
+      {
+        "company": "Yale University",
+        "position": "Visiting Professor",
+        "department": "Department of Applied Mathematics",
+        "start_date": "2013-08-24",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Columbia University",
+        "position": "Assistant Professor",
+        "department": "Department of Applied Mathematics",
+        "start_date": "2005-08-26",
+        "end_date": "2013-08-24",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Synthetic biology",
+      "Neural networks",
+      "Drug discovery"
+    ],
+    "research_interests": [
+      "Genomics",
+      "Brain-computer interfaces"
+    ],
+    "linkedin_url": "linkedin.com/in/elizabethgonzalez474",
+    "h_index": 21,
+    "total_citations": 6964,
+    "total_publications": 18,
+    "data_quality_score": 0.78,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 78
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000042",
+    "full_name": "Dr. Sandra Harris",
+    "first_name": "Sandra",
+    "last_name": "Harris",
+    "title": "Adjunct Professor",
+    "current_company": "Caltech",
+    "department": "Electrical Engineering",
+    "location": "Tokyo, Japan",
+    "country": "Australia",
+    "education": [
+      {
+        "institution": "Tsinghua University",
+        "degree": "PhD",
+        "field": "Electrical Engineering",
+        "start_year": 2010,
+        "end_year": 2012
+      },
+      {
+        "institution": "ETH Zurich",
+        "degree": "BS/MS",
+        "field": "Electrical Engineering",
+        "start_year": 2005,
+        "end_year": 2006
+      }
+    ],
+    "experience": [
+      {
+        "company": "Caltech",
+        "position": "Adjunct Professor",
+        "department": "Department of Electrical Engineering",
+        "start_date": "2018-08-23",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Stanford University",
+        "position": "Assistant Professor",
+        "department": "Department of Electrical Engineering",
+        "start_date": "2010-08-25",
+        "end_date": "2018-08-23",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Nanotechnology",
+      "Machine learning",
+      "Neural networks",
+      "Synthetic biology",
+      "Vaccine development"
+    ],
+    "research_interests": [
+      "Neurodegenerative diseases",
+      "Quantum mechanics",
+      "Drug discovery",
+      "CRISPR gene editing"
+    ],
+    "linkedin_url": "linkedin.com/in/sandraharris138",
+    "h_index": 48,
+    "total_citations": 8571,
+    "total_publications": 44,
+    "data_quality_score": 0.73,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 92
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000043",
+    "full_name": "Dr. William Chen",
+    "first_name": "William",
+    "last_name": "Chen",
+    "title": "Lead Scientist",
+    "current_company": "Tokyo University",
+    "department": "Quantum Computing",
+    "location": "Berlin, Germany",
+    "country": "China",
+    "education": [
+      {
+        "institution": "Australian National University",
+        "degree": "PhD",
+        "field": "Quantum Computing",
+        "start_year": 2008,
+        "end_year": 2013
+      },
+      {
+        "institution": "Princeton University",
+        "degree": "BS/MS",
+        "field": "Quantum Computing",
+        "start_year": 2001,
+        "end_year": 2010
+      }
+    ],
+    "experience": [
+      {
+        "company": "Tokyo University",
+        "position": "Lead Scientist",
+        "department": "Department of Quantum Computing",
+        "start_date": "2024-08-21",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "CRISPR gene editing",
+      "Artificial intelligence",
+      "Climate modeling",
+      "Synthetic biology",
+      "Computational chemistry"
+    ],
+    "research_interests": [
+      "Artificial intelligence",
+      "Quantum mechanics"
+    ],
+    "linkedin_url": "linkedin.com/in/williamchen802",
+    "h_index": 57,
+    "total_citations": 9420,
+    "total_publications": 106,
+    "data_quality_score": 0.72,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 83
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000044",
+    "full_name": "Dr. Richard Davis",
+    "first_name": "Richard",
+    "last_name": "Davis",
+    "title": "Assistant Professor",
+    "current_company": "Tokyo University",
+    "department": "Quantum Computing",
+    "location": "Singapore",
+    "country": "Germany",
+    "education": [
+      {
+        "institution": "ETH Zurich",
+        "degree": "PhD",
+        "field": "Quantum Computing",
+        "start_year": 2010,
+        "end_year": 2015
+      },
+      {
+        "institution": "MIT",
+        "degree": "BS/MS",
+        "field": "Quantum Computing",
+        "start_year": 1995,
+        "end_year": 2007
+      }
+    ],
+    "experience": [
+      {
+        "company": "Tokyo University",
+        "position": "Assistant Professor",
+        "department": "Department of Quantum Computing",
+        "start_date": "2022-08-22",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Oxford University",
+        "position": "Assistant Professor",
+        "department": "Department of Quantum Computing",
+        "start_date": "2014-08-24",
+        "end_date": "2022-08-22",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Brain-computer interfaces",
+      "Climate modeling",
+      "Precision medicine"
+    ],
+    "research_interests": [
+      "Renewable energy",
+      "Drug discovery"
+    ],
+    "linkedin_url": "linkedin.com/in/richarddavis907",
+    "h_index": 10,
+    "total_citations": 5042,
+    "total_publications": 52,
+    "data_quality_score": 1.0,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 92
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000045",
+    "full_name": "Dr. Thomas Lopez",
+    "first_name": "Thomas",
+    "last_name": "Lopez",
+    "title": "Professor",
+    "current_company": "Max Planck Institute",
+    "department": "Computer Science",
+    "location": "New York, NY",
+    "country": "China",
+    "education": [
+      {
+        "institution": "Stanford University",
+        "degree": "PhD",
+        "field": "Computer Science",
+        "start_year": 2005,
+        "end_year": 2011
+      },
+      {
+        "institution": "University of Toronto",
+        "degree": "BS/MS",
+        "field": "Computer Science",
+        "start_year": 1995,
+        "end_year": 2006
+      }
+    ],
+    "experience": [
+      {
+        "company": "Max Planck Institute",
+        "position": "Professor",
+        "department": "Department of Computer Science",
+        "start_date": "2021-08-22",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "MIT",
+        "position": "Assistant Professor",
+        "department": "Department of Computer Science",
+        "start_date": "2013-08-24",
+        "end_date": "2021-08-22",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Neural networks",
+      "Materials engineering",
+      "Synthetic biology"
+    ],
+    "research_interests": [
+      "Computational chemistry",
+      "Precision medicine",
+      "Quantum mechanics"
+    ],
+    "linkedin_url": "linkedin.com/in/thomaslopez562",
+    "h_index": 74,
+    "total_citations": 4129,
+    "total_publications": 26,
+    "data_quality_score": 0.92,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 96
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000046",
+    "full_name": "Dr. Kimberly Martin",
+    "first_name": "Kimberly",
+    "last_name": "Martin",
+    "title": "Professor",
+    "current_company": "Tokyo University",
+    "department": "Molecular Biology",
+    "location": "Palo Alto, CA",
+    "country": "UK",
+    "education": [
+      {
+        "institution": "Northwestern University",
+        "degree": "PhD",
+        "field": "Molecular Biology",
+        "start_year": 2006,
+        "end_year": 2013
+      },
+      {
+        "institution": "ETH Zurich",
+        "degree": "BS/MS",
+        "field": "Molecular Biology",
+        "start_year": 2002,
+        "end_year": 2010
+      }
+    ],
+    "experience": [
+      {
+        "company": "Tokyo University",
+        "position": "Professor",
+        "department": "Department of Molecular Biology",
+        "start_date": "2011-08-25",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Duke University",
+        "position": "Assistant Professor",
+        "department": "Department of Molecular Biology",
+        "start_date": "2003-08-27",
+        "end_date": "2011-08-25",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Nanotechnology",
+      "Drug discovery",
+      "Neural networks",
+      "Precision medicine",
+      "Protein folding"
+    ],
+    "research_interests": [
+      "Precision medicine",
+      "Brain-computer interfaces",
+      "Renewable energy",
+      "Genomics"
+    ],
+    "linkedin_url": "linkedin.com/in/kimberlymartin711",
+    "h_index": 77,
+    "total_citations": 5331,
+    "total_publications": 131,
+    "data_quality_score": 0.85,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 88
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000047",
+    "full_name": "Dr. Michael Cohen",
+    "first_name": "Michael",
+    "last_name": "Cohen",
+    "title": "Visiting Professor",
+    "current_company": "Max Planck Institute",
+    "department": "Environmental Science",
+    "location": "Munich, Germany",
+    "country": "China",
+    "education": [
+      {
+        "institution": "Peking University",
+        "degree": "PhD",
+        "field": "Environmental Science",
+        "start_year": 2003,
+        "end_year": 2013
+      },
+      {
+        "institution": "Peking University",
+        "degree": "BS/MS",
+        "field": "Environmental Science",
+        "start_year": 1998,
+        "end_year": 2008
+      }
+    ],
+    "experience": [
+      {
+        "company": "Max Planck Institute",
+        "position": "Visiting Professor",
+        "department": "Department of Environmental Science",
+        "start_date": "2020-08-22",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Tsinghua University",
+        "position": "Assistant Professor",
+        "department": "Department of Environmental Science",
+        "start_date": "2012-08-24",
+        "end_date": "2020-08-22",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Quantum mechanics",
+      "Renewable energy",
+      "Neurodegenerative diseases",
+      "Precision medicine",
+      "Protein folding",
+      "Stem cell research"
+    ],
+    "research_interests": [
+      "Materials engineering",
+      "Neural networks"
+    ],
+    "linkedin_url": "linkedin.com/in/michaelcohen193",
+    "h_index": 20,
+    "total_citations": 2027,
+    "total_publications": 125,
+    "data_quality_score": 0.73,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 98
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000048",
+    "full_name": "Dr. Lisa Rodriguez",
+    "first_name": "Lisa",
+    "last_name": "Rodriguez",
+    "title": "Adjunct Professor",
+    "current_company": "University of California Berkeley",
+    "department": "Microbiology",
+    "location": "Zurich, Switzerland",
+    "country": "USA",
+    "education": [
+      {
+        "institution": "Cornell University",
+        "degree": "PhD",
+        "field": "Microbiology",
+        "start_year": 2005,
+        "end_year": 2015
+      },
+      {
+        "institution": "Max Planck Institute",
+        "degree": "BS/MS",
+        "field": "Microbiology",
+        "start_year": 2001,
+        "end_year": 2007
+      }
+    ],
+    "experience": [
+      {
+        "company": "University of California Berkeley",
+        "position": "Adjunct Professor",
+        "department": "Department of Microbiology",
+        "start_date": "2012-08-24",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Imperial College London",
+        "position": "Assistant Professor",
+        "department": "Department of Microbiology",
+        "start_date": "2004-08-26",
+        "end_date": "2012-08-24",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Nanotechnology",
+      "Vaccine development",
+      "Artificial intelligence",
+      "Quantum mechanics",
+      "Climate modeling"
+    ],
+    "research_interests": [
+      "Materials engineering",
+      "Machine learning"
+    ],
+    "linkedin_url": "linkedin.com/in/lisarodriguez967",
+    "h_index": 23,
+    "total_citations": 6236,
+    "total_publications": 109,
+    "data_quality_score": 0.73,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 83
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000049",
+    "full_name": "Dr. Andrew Anderson",
+    "first_name": "Andrew",
+    "last_name": "Anderson",
+    "title": "Visiting Professor",
+    "current_company": "Tsinghua University",
+    "department": "Data Science",
+    "location": "San Diego, CA",
+    "country": "USA",
+    "education": [
+      {
+        "institution": "UCLA",
+        "degree": "PhD",
+        "field": "Data Science",
+        "start_year": 2010,
+        "end_year": 2015
+      },
+      {
+        "institution": "MIT",
+        "degree": "BS/MS",
+        "field": "Data Science",
+        "start_year": 2004,
+        "end_year": 2010
+      }
+    ],
+    "experience": [
+      {
+        "company": "Tsinghua University",
+        "position": "Visiting Professor",
+        "department": "Department of Data Science",
+        "start_date": "2012-08-24",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Imperial College London",
+        "position": "Assistant Professor",
+        "department": "Department of Data Science",
+        "start_date": "2004-08-26",
+        "end_date": "2012-08-24",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Protein folding",
+      "Vaccine development",
+      "Renewable energy",
+      "Artificial intelligence"
+    ],
+    "research_interests": [
+      "Stem cell research",
+      "Drug discovery"
+    ],
+    "linkedin_url": "linkedin.com/in/andrewanderson679",
+    "h_index": 61,
+    "total_citations": 1640,
+    "total_publications": 51,
+    "data_quality_score": 0.92,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 75
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000050",
+    "full_name": "Dr. Jennifer Hassan",
+    "first_name": "Jennifer",
+    "last_name": "Hassan",
+    "title": "Senior Scientist",
+    "current_company": "University of Pennsylvania",
+    "department": "Mechanical Engineering",
+    "location": "Singapore",
+    "country": "UK",
+    "education": [
+      {
+        "institution": "Northwestern University",
+        "degree": "PhD",
+        "field": "Mechanical Engineering",
+        "start_year": 2005,
+        "end_year": 2011
+      },
+      {
+        "institution": "University College London",
+        "degree": "BS/MS",
+        "field": "Mechanical Engineering",
+        "start_year": 1999,
+        "end_year": 2010
+      }
+    ],
+    "experience": [
+      {
+        "company": "University of Pennsylvania",
+        "position": "Senior Scientist",
+        "department": "Department of Mechanical Engineering",
+        "start_date": "2020-08-22",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Drug discovery",
+      "Stem cell research",
+      "CRISPR gene editing"
+    ],
+    "research_interests": [
+      "Neural networks",
+      "Protein folding",
+      "Synthetic biology",
+      "Neurodegenerative diseases"
+    ],
+    "linkedin_url": "linkedin.com/in/jenniferhassan597",
+    "h_index": 66,
+    "total_citations": 7285,
+    "total_publications": 84,
+    "data_quality_score": 0.76,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 91
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000051",
+    "full_name": "Dr. Linda White",
+    "first_name": "Linda",
+    "last_name": "White",
+    "title": "Research Scientist",
+    "current_company": "Tsinghua University",
+    "department": "Biochemistry",
+    "location": "Cambridge, MA",
+    "country": "Germany",
+    "education": [
+      {
+        "institution": "McGill University",
+        "degree": "PhD",
+        "field": "Biochemistry",
+        "start_year": 2010,
+        "end_year": 2014
+      },
+      {
+        "institution": "Australian National University",
+        "degree": "BS/MS",
+        "field": "Biochemistry",
+        "start_year": 2003,
+        "end_year": 2010
+      }
+    ],
+    "experience": [
+      {
+        "company": "Tsinghua University",
+        "position": "Research Scientist",
+        "department": "Department of Biochemistry",
+        "start_date": "2021-08-22",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Nanotechnology",
+      "CRISPR gene editing",
+      "Cancer immunotherapy",
+      "Climate modeling",
+      "Vaccine development",
+      "Quantum mechanics"
+    ],
+    "research_interests": [
+      "Protein folding",
+      "Vaccine development"
+    ],
+    "linkedin_url": "linkedin.com/in/lindawhite435",
+    "h_index": 25,
+    "total_citations": 626,
+    "total_publications": 142,
+    "data_quality_score": 0.92,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 80
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000052",
+    "full_name": "Dr. William Chen",
+    "first_name": "William",
+    "last_name": "Chen",
+    "title": "Emeritus Professor",
+    "current_company": "Duke University",
+    "department": "Microbiology",
+    "location": "Boston, MA",
+    "country": "Japan",
+    "education": [
+      {
+        "institution": "Tsinghua University",
+        "degree": "PhD",
+        "field": "Microbiology",
+        "start_year": 2010,
+        "end_year": 2012
+      },
+      {
+        "institution": "Oxford University",
+        "degree": "BS/MS",
+        "field": "Microbiology",
+        "start_year": 2001,
+        "end_year": 2010
+      }
+    ],
+    "experience": [
+      {
+        "company": "Duke University",
+        "position": "Emeritus Professor",
+        "department": "Department of Microbiology",
+        "start_date": "2025-08-21",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "University of Pennsylvania",
+        "position": "Assistant Professor",
+        "department": "Department of Microbiology",
+        "start_date": "2017-08-23",
+        "end_date": "2025-08-21",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Renewable energy",
+      "Precision medicine",
+      "Neurodegenerative diseases"
+    ],
+    "research_interests": [
+      "Genomics",
+      "Neurodegenerative diseases",
+      "Vaccine development",
+      "Quantum mechanics"
+    ],
+    "linkedin_url": "linkedin.com/in/williamchen514",
+    "h_index": 12,
+    "total_citations": 5821,
+    "total_publications": 58,
+    "data_quality_score": 0.94,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 94
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000053",
+    "full_name": "Dr. Sandra Cohen",
+    "first_name": "Sandra",
+    "last_name": "Cohen",
+    "title": "Assistant Professor",
+    "current_company": "University College London",
+    "department": "Mechanical Engineering",
+    "location": "Cambridge, UK",
+    "country": "Canada",
+    "education": [
+      {
+        "institution": "Peking University",
+        "degree": "PhD",
+        "field": "Mechanical Engineering",
+        "start_year": 2001,
+        "end_year": 2011
+      },
+      {
+        "institution": "Tsinghua University",
+        "degree": "BS/MS",
+        "field": "Mechanical Engineering",
+        "start_year": 2004,
+        "end_year": 2008
+      }
+    ],
+    "experience": [
+      {
+        "company": "University College London",
+        "position": "Assistant Professor",
+        "department": "Department of Mechanical Engineering",
+        "start_date": "2017-08-23",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Harvard University",
+        "position": "Assistant Professor",
+        "department": "Department of Mechanical Engineering",
+        "start_date": "2009-08-25",
+        "end_date": "2017-08-23",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Machine learning",
+      "Renewable energy",
+      "Stem cell research",
+      "Neural networks",
+      "Quantum mechanics"
+    ],
+    "research_interests": [
+      "Computational chemistry",
+      "Climate modeling",
+      "Artificial intelligence",
+      "Brain-computer interfaces"
+    ],
+    "linkedin_url": "linkedin.com/in/sandracohen844",
+    "h_index": 28,
+    "total_citations": 4371,
+    "total_publications": 41,
+    "data_quality_score": 0.74,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 81
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000054",
+    "full_name": "Dr. Elizabeth Dubois",
+    "first_name": "Elizabeth",
+    "last_name": "Dubois",
+    "title": "Assistant Professor",
+    "current_company": "Princeton University",
+    "department": "Bioengineering",
+    "location": "Singapore",
+    "country": "Singapore",
+    "education": [
+      {
+        "institution": "Australian National University",
+        "degree": "PhD",
+        "field": "Bioengineering",
+        "start_year": 2010,
+        "end_year": 2013
+      },
+      {
+        "institution": "Tokyo University",
+        "degree": "BS/MS",
+        "field": "Bioengineering",
+        "start_year": 2004,
+        "end_year": 2009
+      }
+    ],
+    "experience": [
+      {
+        "company": "Princeton University",
+        "position": "Assistant Professor",
+        "department": "Department of Bioengineering",
+        "start_date": "2018-08-23",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Imperial College London",
+        "position": "Assistant Professor",
+        "department": "Department of Bioengineering",
+        "start_date": "2010-08-25",
+        "end_date": "2018-08-23",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Drug discovery",
+      "Synthetic biology",
+      "Neural networks",
+      "Materials engineering",
+      "Precision medicine"
+    ],
+    "research_interests": [
+      "Vaccine development",
+      "Protein folding",
+      "CRISPR gene editing",
+      "Artificial intelligence"
+    ],
+    "linkedin_url": "linkedin.com/in/elizabethdubois619",
+    "h_index": 19,
+    "total_citations": 5585,
+    "total_publications": 133,
+    "data_quality_score": 0.84,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 76
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000055",
+    "full_name": "Dr. Lisa Jackson",
+    "first_name": "Lisa",
+    "last_name": "Jackson",
+    "title": "Assistant Professor",
+    "current_company": "Oxford University",
+    "department": "Data Science",
+    "location": "Cambridge, MA",
+    "country": "Japan",
+    "education": [
+      {
+        "institution": "University of Toronto",
+        "degree": "PhD",
+        "field": "Data Science",
+        "start_year": 2008,
+        "end_year": 2013
+      },
+      {
+        "institution": "Tokyo University",
+        "degree": "BS/MS",
+        "field": "Data Science",
+        "start_year": 2004,
+        "end_year": 2009
+      }
+    ],
+    "experience": [
+      {
+        "company": "Oxford University",
+        "position": "Assistant Professor",
+        "department": "Department of Data Science",
+        "start_date": "2013-08-24",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Technical University of Munich",
+        "position": "Assistant Professor",
+        "department": "Department of Data Science",
+        "start_date": "2005-08-26",
+        "end_date": "2013-08-24",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Renewable energy",
+      "Materials engineering",
+      "Computational chemistry",
+      "Drug discovery"
+    ],
+    "research_interests": [
+      "Synthetic biology",
+      "Quantum mechanics"
+    ],
+    "linkedin_url": "linkedin.com/in/lisajackson930",
+    "h_index": 53,
+    "total_citations": 1881,
+    "total_publications": 144,
+    "data_quality_score": 0.89,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 76
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000056",
+    "full_name": "Dr. Jessica Levy",
+    "first_name": "Jessica",
+    "last_name": "Levy",
+    "title": "Group Leader",
+    "current_company": "Peking University",
+    "department": "Cell Biology",
+    "location": "Zurich, Switzerland",
+    "country": "Singapore",
+    "education": [
+      {
+        "institution": "Caltech",
+        "degree": "PhD",
+        "field": "Cell Biology",
+        "start_year": 2009,
+        "end_year": 2011
+      },
+      {
+        "institution": "University College London",
+        "degree": "BS/MS",
+        "field": "Cell Biology",
+        "start_year": 2000,
+        "end_year": 2007
+      }
+    ],
+    "experience": [
+      {
+        "company": "Peking University",
+        "position": "Group Leader",
+        "department": "Department of Cell Biology",
+        "start_date": "2019-08-23",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Renewable energy",
+      "Neural networks",
+      "Nanotechnology"
+    ],
+    "research_interests": [
+      "Brain-computer interfaces",
+      "Genomics"
+    ],
+    "linkedin_url": "linkedin.com/in/jessicalevy390",
+    "h_index": 42,
+    "total_citations": 2963,
+    "total_publications": 100,
+    "data_quality_score": 0.72,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 96
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000057",
+    "full_name": "Dr. Barbara White",
+    "first_name": "Barbara",
+    "last_name": "White",
+    "title": "Senior Scientist",
+    "current_company": "UCLA",
+    "department": "Computer Science",
+    "location": "New York, NY",
+    "country": "Australia",
+    "education": [
+      {
+        "institution": "University of Toronto",
+        "degree": "PhD",
+        "field": "Computer Science",
+        "start_year": 2001,
+        "end_year": 2012
+      },
+      {
+        "institution": "Technical University of Munich",
+        "degree": "BS/MS",
+        "field": "Computer Science",
+        "start_year": 2005,
+        "end_year": 2007
+      }
+    ],
+    "experience": [
+      {
+        "company": "UCLA",
+        "position": "Senior Scientist",
+        "department": "Department of Computer Science",
+        "start_date": "2012-08-24",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Neurodegenerative diseases",
+      "Computational chemistry",
+      "Artificial intelligence"
+    ],
+    "research_interests": [
+      "Artificial intelligence",
+      "Vaccine development"
+    ],
+    "linkedin_url": "linkedin.com/in/barbarawhite284",
+    "h_index": 37,
+    "total_citations": 6098,
+    "total_publications": 139,
+    "data_quality_score": 0.76,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 79
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000058",
+    "full_name": "Dr. Barbara Jones",
+    "first_name": "Barbara",
+    "last_name": "Jones",
+    "title": "Research Scientist",
+    "current_company": "Cornell University",
+    "department": "Cell Biology",
+    "location": "Tokyo, Japan",
+    "country": "Switzerland",
+    "education": [
+      {
+        "institution": "Karolinska Institute",
+        "degree": "PhD",
+        "field": "Cell Biology",
+        "start_year": 2008,
+        "end_year": 2015
+      },
+      {
+        "institution": "Harvard University",
+        "degree": "BS/MS",
+        "field": "Cell Biology",
+        "start_year": 2005,
+        "end_year": 2007
+      }
+    ],
+    "experience": [
+      {
+        "company": "Cornell University",
+        "position": "Research Scientist",
+        "department": "Department of Cell Biology",
+        "start_date": "2011-08-25",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Drug discovery",
+      "Stem cell research",
+      "Precision medicine",
+      "Brain-computer interfaces",
+      "Synthetic biology",
+      "Cancer immunotherapy"
+    ],
+    "research_interests": [
+      "Artificial intelligence",
+      "Machine learning",
+      "Synthetic biology"
+    ],
+    "linkedin_url": "linkedin.com/in/barbarajones725",
+    "h_index": 46,
+    "total_citations": 7855,
+    "total_publications": 74,
+    "data_quality_score": 0.86,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 84
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000059",
+    "full_name": "Dr. Aisha Singh",
+    "first_name": "Aisha",
+    "last_name": "Singh",
+    "title": "Lead Scientist",
+    "current_company": "Johns Hopkins University",
+    "department": "Quantum Computing",
+    "location": "Paris, France",
+    "country": "China",
+    "education": [
+      {
+        "institution": "Australian National University",
+        "degree": "PhD",
+        "field": "Quantum Computing",
+        "start_year": 2009,
+        "end_year": 2013
+      },
+      {
+        "institution": "Tokyo University",
+        "degree": "BS/MS",
+        "field": "Quantum Computing",
+        "start_year": 1999,
+        "end_year": 2008
+      }
+    ],
+    "experience": [
+      {
+        "company": "Johns Hopkins University",
+        "position": "Lead Scientist",
+        "department": "Department of Quantum Computing",
+        "start_date": "2017-08-23",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Climate modeling",
+      "Drug discovery",
+      "Protein folding",
+      "CRISPR gene editing"
+    ],
+    "research_interests": [
+      "Materials engineering",
+      "Artificial intelligence",
+      "Brain-computer interfaces",
+      "Quantum mechanics"
+    ],
+    "linkedin_url": "linkedin.com/in/aishasingh828",
+    "h_index": 76,
+    "total_citations": 2542,
+    "total_publications": 87,
+    "data_quality_score": 0.73,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 80
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000060",
+    "full_name": "Dr. Sarah Kumar",
+    "first_name": "Sarah",
+    "last_name": "Kumar",
+    "title": "Staff Scientist",
+    "current_company": "Princeton University",
+    "department": "Chemistry",
+    "location": "Cambridge, UK",
+    "country": "Australia",
+    "education": [
+      {
+        "institution": "Australian National University",
+        "degree": "PhD",
+        "field": "Chemistry",
+        "start_year": 2003,
+        "end_year": 2013
+      },
+      {
+        "institution": "Imperial College London",
+        "degree": "BS/MS",
+        "field": "Chemistry",
+        "start_year": 1995,
+        "end_year": 2008
+      }
+    ],
+    "experience": [
+      {
+        "company": "Princeton University",
+        "position": "Staff Scientist",
+        "department": "Department of Chemistry",
+        "start_date": "2025-08-21",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Machine learning",
+      "Genomics",
+      "Neural networks",
+      "Artificial intelligence",
+      "Nanotechnology"
+    ],
+    "research_interests": [
+      "Renewable energy",
+      "Quantum mechanics"
+    ],
+    "linkedin_url": "linkedin.com/in/sarahkumar959",
+    "h_index": 52,
+    "total_citations": 2892,
+    "total_publications": 50,
+    "data_quality_score": 0.71,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 90
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000061",
+    "full_name": "Dr. Mohammed Rodriguez",
+    "first_name": "Mohammed",
+    "last_name": "Rodriguez",
+    "title": "Group Leader",
+    "current_company": "Kyoto University",
+    "department": "Data Science",
+    "location": "Melbourne, Australia",
+    "country": "Australia",
+    "education": [
+      {
+        "institution": "Stanford University",
+        "degree": "PhD",
+        "field": "Data Science",
+        "start_year": 2001,
+        "end_year": 2010
+      },
+      {
+        "institution": "Caltech",
+        "degree": "BS/MS",
+        "field": "Data Science",
+        "start_year": 1998,
+        "end_year": 2006
+      }
+    ],
+    "experience": [
+      {
+        "company": "Kyoto University",
+        "position": "Group Leader",
+        "department": "Department of Data Science",
+        "start_date": "2017-08-23",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Quantum mechanics",
+      "Vaccine development",
+      "Machine learning",
+      "Precision medicine",
+      "Nanotechnology",
+      "Cancer immunotherapy"
+    ],
+    "research_interests": [
+      "Neurodegenerative diseases",
+      "Synthetic biology"
+    ],
+    "linkedin_url": "linkedin.com/in/mohammedrodriguez164",
+    "h_index": 24,
+    "total_citations": 8689,
+    "total_publications": 19,
+    "data_quality_score": 0.89,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 93
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000062",
+    "full_name": "Dr. Jessica Levy",
+    "first_name": "Jessica",
+    "last_name": "Levy",
+    "title": "Department Chair",
+    "current_company": "Princeton University",
+    "department": "Mechanical Engineering",
+    "location": "Shanghai, China",
+    "country": "UK",
+    "education": [
+      {
+        "institution": "Stanford University",
+        "degree": "PhD",
+        "field": "Mechanical Engineering",
+        "start_year": 2009,
+        "end_year": 2012
+      },
+      {
+        "institution": "Northwestern University",
+        "degree": "BS/MS",
+        "field": "Mechanical Engineering",
+        "start_year": 2004,
+        "end_year": 2008
+      }
+    ],
+    "experience": [
+      {
+        "company": "Princeton University",
+        "position": "Department Chair",
+        "department": "Department of Mechanical Engineering",
+        "start_date": "2023-08-22",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Neural networks",
+      "Computational chemistry",
+      "Brain-computer interfaces",
+      "Precision medicine",
+      "Cancer immunotherapy"
+    ],
+    "research_interests": [
+      "Materials engineering",
+      "CRISPR gene editing",
+      "Genomics"
+    ],
+    "linkedin_url": "linkedin.com/in/jessicalevy482",
+    "h_index": 42,
+    "total_citations": 766,
+    "total_publications": 106,
+    "data_quality_score": 0.94,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 86
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000063",
+    "full_name": "Dr. Jessica Ahmed",
+    "first_name": "Jessica",
+    "last_name": "Ahmed",
+    "title": "Adjunct Professor",
+    "current_company": "ETH Zurich",
+    "department": "Environmental Science",
+    "location": "Beijing, China",
+    "country": "Switzerland",
+    "education": [
+      {
+        "institution": "Karolinska Institute",
+        "degree": "PhD",
+        "field": "Environmental Science",
+        "start_year": 2005,
+        "end_year": 2011
+      },
+      {
+        "institution": "Harvard University",
+        "degree": "BS/MS",
+        "field": "Environmental Science",
+        "start_year": 2000,
+        "end_year": 2009
+      }
+    ],
+    "experience": [
+      {
+        "company": "ETH Zurich",
+        "position": "Adjunct Professor",
+        "department": "Department of Environmental Science",
+        "start_date": "2020-08-22",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Tsinghua University",
+        "position": "Assistant Professor",
+        "department": "Department of Environmental Science",
+        "start_date": "2012-08-24",
+        "end_date": "2020-08-22",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Materials engineering",
+      "Stem cell research",
+      "Drug discovery",
+      "Neural networks",
+      "Synthetic biology",
+      "Cancer immunotherapy"
+    ],
+    "research_interests": [
+      "Climate modeling",
+      "CRISPR gene editing",
+      "Nanotechnology"
+    ],
+    "linkedin_url": "linkedin.com/in/jessicaahmed142",
+    "h_index": 50,
+    "total_citations": 5580,
+    "total_publications": 146,
+    "data_quality_score": 0.82,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 92
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000064",
+    "full_name": "Dr. Donald Taylor",
+    "first_name": "Donald",
+    "last_name": "Taylor",
+    "title": "Research Fellow",
+    "current_company": "Harvard University",
+    "department": "Biochemistry",
+    "location": "Oxford, UK",
+    "country": "China",
+    "education": [
+      {
+        "institution": "Johns Hopkins University",
+        "degree": "PhD",
+        "field": "Biochemistry",
+        "start_year": 2000,
+        "end_year": 2015
+      },
+      {
+        "institution": "McGill University",
+        "degree": "BS/MS",
+        "field": "Biochemistry",
+        "start_year": 1999,
+        "end_year": 2005
+      }
+    ],
+    "experience": [
+      {
+        "company": "Harvard University",
+        "position": "Research Fellow",
+        "department": "Department of Biochemistry",
+        "start_date": "2013-08-24",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Synthetic biology",
+      "Genomics",
+      "Renewable energy",
+      "Stem cell research",
+      "Materials engineering",
+      "Artificial intelligence"
+    ],
+    "research_interests": [
+      "Artificial intelligence",
+      "Computational chemistry",
+      "Protein folding"
+    ],
+    "linkedin_url": "linkedin.com/in/donaldtaylor920",
+    "h_index": 20,
+    "total_citations": 7455,
+    "total_publications": 35,
+    "data_quality_score": 0.83,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 80
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000065",
+    "full_name": "Dr. Paul Jackson",
+    "first_name": "Paul",
+    "last_name": "Jackson",
+    "title": "Research Scientist",
+    "current_company": "University of Toronto",
+    "department": "Chemistry",
+    "location": "Zurich, Switzerland",
+    "country": "Switzerland",
+    "education": [
+      {
+        "institution": "Columbia University",
+        "degree": "PhD",
+        "field": "Chemistry",
+        "start_year": 2010,
+        "end_year": 2012
+      },
+      {
+        "institution": "UCLA",
+        "degree": "BS/MS",
+        "field": "Chemistry",
+        "start_year": 2002,
+        "end_year": 2009
+      }
+    ],
+    "experience": [
+      {
+        "company": "University of Toronto",
+        "position": "Research Scientist",
+        "department": "Department of Chemistry",
+        "start_date": "2014-08-24",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Artificial intelligence",
+      "Synthetic biology",
+      "CRISPR gene editing",
+      "Nanotechnology",
+      "Neurodegenerative diseases",
+      "Drug discovery"
+    ],
+    "research_interests": [
+      "CRISPR gene editing",
+      "Neural networks",
+      "Genomics",
+      "Artificial intelligence"
+    ],
+    "linkedin_url": "linkedin.com/in/pauljackson625",
+    "h_index": 30,
+    "total_citations": 1010,
+    "total_publications": 51,
+    "data_quality_score": 0.95,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 96
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000066",
+    "full_name": "Dr. Ahmed Kumar",
+    "first_name": "Ahmed",
+    "last_name": "Kumar",
+    "title": "Senior Research Scientist",
+    "current_company": "Harvard University",
+    "department": "Chemistry",
+    "location": "Tokyo, Japan",
+    "country": "Switzerland",
+    "education": [
+      {
+        "institution": "Yale University",
+        "degree": "PhD",
+        "field": "Chemistry",
+        "start_year": 2010,
+        "end_year": 2012
+      },
+      {
+        "institution": "University College London",
+        "degree": "BS/MS",
+        "field": "Chemistry",
+        "start_year": 2001,
+        "end_year": 2009
+      }
+    ],
+    "experience": [
+      {
+        "company": "Harvard University",
+        "position": "Senior Research Scientist",
+        "department": "Department of Chemistry",
+        "start_date": "2025-08-21",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Artificial intelligence",
+      "Nanotechnology",
+      "Synthetic biology",
+      "Neural networks",
+      "Drug discovery",
+      "Protein folding"
+    ],
+    "research_interests": [
+      "Genomics",
+      "Renewable energy",
+      "Protein folding"
+    ],
+    "linkedin_url": "linkedin.com/in/ahmedkumar355",
+    "h_index": 24,
+    "total_citations": 924,
+    "total_publications": 62,
+    "data_quality_score": 0.85,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 87
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000067",
+    "full_name": "Dr. Emily Davis",
+    "first_name": "Emily",
+    "last_name": "Davis",
+    "title": "Lab Director",
+    "current_company": "Caltech",
+    "department": "Nanotechnology",
+    "location": "Palo Alto, CA",
+    "country": "Japan",
+    "education": [
+      {
+        "institution": "Duke University",
+        "degree": "PhD",
+        "field": "Nanotechnology",
+        "start_year": 2003,
+        "end_year": 2014
+      },
+      {
+        "institution": "Cornell University",
+        "degree": "BS/MS",
+        "field": "Nanotechnology",
+        "start_year": 2002,
+        "end_year": 2006
+      }
+    ],
+    "experience": [
+      {
+        "company": "Caltech",
+        "position": "Lab Director",
+        "department": "Department of Nanotechnology",
+        "start_date": "2024-08-21",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Oxford University",
+        "position": "Senior Scientist",
+        "department": "Department of Nanotechnology",
+        "start_date": "2016-08-23",
+        "end_date": "2024-08-21",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Synthetic biology",
+      "Neural networks",
+      "Renewable energy",
+      "Artificial intelligence"
+    ],
+    "research_interests": [
+      "Neural networks",
+      "Brain-computer interfaces",
+      "Precision medicine",
+      "Vaccine development"
+    ],
+    "linkedin_url": "linkedin.com/in/emilydavis407",
+    "h_index": 30,
+    "total_citations": 3352,
+    "total_publications": 107,
+    "data_quality_score": 0.85,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 78
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000068",
+    "full_name": "Dr. Richard Rodriguez",
+    "first_name": "Richard",
+    "last_name": "Rodriguez",
+    "title": "Research Associate Professor",
+    "current_company": "Northwestern University",
+    "department": "Neuroscience",
+    "location": "Palo Alto, CA",
+    "country": "UK",
+    "education": [
+      {
+        "institution": "University of Chicago",
+        "degree": "PhD",
+        "field": "Neuroscience",
+        "start_year": 2008,
+        "end_year": 2014
+      },
+      {
+        "institution": "University College London",
+        "degree": "BS/MS",
+        "field": "Neuroscience",
+        "start_year": 2002,
+        "end_year": 2009
+      }
+    ],
+    "experience": [
+      {
+        "company": "Northwestern University",
+        "position": "Research Associate Professor",
+        "department": "Department of Neuroscience",
+        "start_date": "2023-08-22",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "University of Toronto",
+        "position": "Assistant Professor",
+        "department": "Department of Neuroscience",
+        "start_date": "2015-08-24",
+        "end_date": "2023-08-22",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Genomics",
+      "Materials engineering",
+      "Computational chemistry",
+      "Neurodegenerative diseases",
+      "Brain-computer interfaces"
+    ],
+    "research_interests": [
+      "Neural networks",
+      "Drug discovery",
+      "Renewable energy",
+      "Nanotechnology"
+    ],
+    "linkedin_url": "linkedin.com/in/richardrodriguez560",
+    "h_index": 69,
+    "total_citations": 8976,
+    "total_publications": 103,
+    "data_quality_score": 0.74,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 99
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000069",
+    "full_name": "Dr. Emily O'Brien",
+    "first_name": "Emily",
+    "last_name": "O'Brien",
+    "title": "Senior Research Scientist",
+    "current_company": "University of Chicago",
+    "department": "Mechanical Engineering",
+    "location": "London, UK",
+    "country": "Germany",
+    "education": [
+      {
+        "institution": "University of Michigan",
+        "degree": "PhD",
+        "field": "Mechanical Engineering",
+        "start_year": 2000,
+        "end_year": 2010
+      },
+      {
+        "institution": "Princeton University",
+        "degree": "BS/MS",
+        "field": "Mechanical Engineering",
+        "start_year": 1999,
+        "end_year": 2006
+      }
+    ],
+    "experience": [
+      {
+        "company": "University of Chicago",
+        "position": "Senior Research Scientist",
+        "department": "Department of Mechanical Engineering",
+        "start_date": "2023-08-22",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Computational chemistry",
+      "Vaccine development",
+      "Neural networks",
+      "Protein folding",
+      "Climate modeling"
+    ],
+    "research_interests": [
+      "Brain-computer interfaces",
+      "Protein folding",
+      "Drug discovery",
+      "Vaccine development"
+    ],
+    "linkedin_url": "linkedin.com/in/emilyo'brien729",
+    "h_index": 78,
+    "total_citations": 2030,
+    "total_publications": 143,
+    "data_quality_score": 0.89,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 93
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000070",
+    "full_name": "Dr. Donna Martinez",
+    "first_name": "Donna",
+    "last_name": "Martinez",
+    "title": "Clinical Professor",
+    "current_company": "Columbia University",
+    "department": "Environmental Science",
+    "location": "Beijing, China",
+    "country": "Canada",
+    "education": [
+      {
+        "institution": "Tokyo University",
+        "degree": "PhD",
+        "field": "Environmental Science",
+        "start_year": 2009,
+        "end_year": 2012
+      },
+      {
+        "institution": "Harvard University",
+        "degree": "BS/MS",
+        "field": "Environmental Science",
+        "start_year": 1995,
+        "end_year": 2005
+      }
+    ],
+    "experience": [
+      {
+        "company": "Columbia University",
+        "position": "Clinical Professor",
+        "department": "Department of Environmental Science",
+        "start_date": "2025-08-21",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Australian National University",
+        "position": "Assistant Professor",
+        "department": "Department of Environmental Science",
+        "start_date": "2017-08-23",
+        "end_date": "2025-08-21",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Precision medicine",
+      "Neurodegenerative diseases",
+      "Cancer immunotherapy",
+      "Materials engineering"
+    ],
+    "research_interests": [
+      "Brain-computer interfaces",
+      "Vaccine development",
+      "Precision medicine",
+      "Materials engineering"
+    ],
+    "linkedin_url": "linkedin.com/in/donnamartinez350",
+    "h_index": 61,
+    "total_citations": 5373,
+    "total_publications": 131,
+    "data_quality_score": 0.72,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 76
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000071",
+    "full_name": "Dr. David Kumar",
+    "first_name": "David",
+    "last_name": "Kumar",
+    "title": "Research Associate Professor",
+    "current_company": "National University of Singapore",
+    "department": "Computational Biology",
+    "location": "Oxford, UK",
+    "country": "China",
+    "education": [
+      {
+        "institution": "ETH Zurich",
+        "degree": "PhD",
+        "field": "Computational Biology",
+        "start_year": 2005,
+        "end_year": 2014
+      },
+      {
+        "institution": "Princeton University",
+        "degree": "BS/MS",
+        "field": "Computational Biology",
+        "start_year": 2000,
+        "end_year": 2010
+      }
+    ],
+    "experience": [
+      {
+        "company": "National University of Singapore",
+        "position": "Research Associate Professor",
+        "department": "Department of Computational Biology",
+        "start_date": "2020-08-22",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "University College London",
+        "position": "Assistant Professor",
+        "department": "Department of Computational Biology",
+        "start_date": "2012-08-24",
+        "end_date": "2020-08-22",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Artificial intelligence",
+      "Computational chemistry",
+      "Brain-computer interfaces",
+      "Quantum mechanics"
+    ],
+    "research_interests": [
+      "Machine learning",
+      "Synthetic biology",
+      "Quantum mechanics"
+    ],
+    "linkedin_url": "linkedin.com/in/davidkumar373",
+    "h_index": 67,
+    "total_citations": 4561,
+    "total_publications": 51,
+    "data_quality_score": 0.73,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 84
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000072",
+    "full_name": "Dr. Matthew Bernard",
+    "first_name": "Matthew",
+    "last_name": "Bernard",
+    "title": "Postdoctoral Researcher",
+    "current_company": "National University of Singapore",
+    "department": "Bioengineering",
+    "location": "Paris, France",
+    "country": "Japan",
+    "education": [
+      {
+        "institution": "Tsinghua University",
+        "degree": "PhD",
+        "field": "Bioengineering",
+        "start_year": 2005,
+        "end_year": 2014
+      },
+      {
+        "institution": "University of Toronto",
+        "degree": "BS/MS",
+        "field": "Bioengineering",
+        "start_year": 1998,
+        "end_year": 2006
+      }
+    ],
+    "experience": [
+      {
+        "company": "National University of Singapore",
+        "position": "Postdoctoral Researcher",
+        "department": "Department of Bioengineering",
+        "start_date": "2018-08-23",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Vaccine development",
+      "Materials engineering",
+      "Cancer immunotherapy",
+      "Neural networks",
+      "Genomics",
+      "Protein folding"
+    ],
+    "research_interests": [
+      "Machine learning",
+      "Climate modeling",
+      "Artificial intelligence"
+    ],
+    "linkedin_url": "linkedin.com/in/matthewbernard149",
+    "h_index": 16,
+    "total_citations": 5109,
+    "total_publications": 141,
+    "data_quality_score": 0.88,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 95
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000073",
+    "full_name": "Dr. Priya Singh",
+    "first_name": "Priya",
+    "last_name": "Singh",
+    "title": "Visiting Professor",
+    "current_company": "Cornell University",
+    "department": "Neuroscience",
+    "location": "Cambridge, UK",
+    "country": "Singapore",
+    "education": [
+      {
+        "institution": "Peking University",
+        "degree": "PhD",
+        "field": "Neuroscience",
+        "start_year": 2001,
+        "end_year": 2013
+      },
+      {
+        "institution": "Yale University",
+        "degree": "BS/MS",
+        "field": "Neuroscience",
+        "start_year": 1999,
+        "end_year": 2010
+      }
+    ],
+    "experience": [
+      {
+        "company": "Cornell University",
+        "position": "Visiting Professor",
+        "department": "Department of Neuroscience",
+        "start_date": "2020-08-22",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Karolinska Institute",
+        "position": "Assistant Professor",
+        "department": "Department of Neuroscience",
+        "start_date": "2012-08-24",
+        "end_date": "2020-08-22",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Genomics",
+      "CRISPR gene editing",
+      "Brain-computer interfaces"
+    ],
+    "research_interests": [
+      "Artificial intelligence",
+      "Brain-computer interfaces"
+    ],
+    "linkedin_url": "linkedin.com/in/priyasingh395",
+    "h_index": 19,
+    "total_citations": 6829,
+    "total_publications": 144,
+    "data_quality_score": 0.84,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 92
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000074",
+    "full_name": "Dr. Sarah Bernard",
+    "first_name": "Sarah",
+    "last_name": "Bernard",
+    "title": "Senior Research Scientist",
+    "current_company": "Max Planck Institute",
+    "department": "Physics",
+    "location": "Paris, France",
+    "country": "China",
+    "education": [
+      {
+        "institution": "University of Pennsylvania",
+        "degree": "PhD",
+        "field": "Physics",
+        "start_year": 2005,
+        "end_year": 2012
+      },
+      {
+        "institution": "University College London",
+        "degree": "BS/MS",
+        "field": "Physics",
+        "start_year": 1997,
+        "end_year": 2006
+      }
+    ],
+    "experience": [
+      {
+        "company": "Max Planck Institute",
+        "position": "Senior Research Scientist",
+        "department": "Department of Physics",
+        "start_date": "2016-08-23",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "CRISPR gene editing",
+      "Nanotechnology",
+      "Drug discovery"
+    ],
+    "research_interests": [
+      "Renewable energy",
+      "Materials engineering",
+      "Computational chemistry",
+      "Synthetic biology"
+    ],
+    "linkedin_url": "linkedin.com/in/sarahbernard252",
+    "h_index": 75,
+    "total_citations": 2790,
+    "total_publications": 98,
+    "data_quality_score": 0.98,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 85
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000075",
+    "full_name": "Dr. David Wang",
+    "first_name": "David",
+    "last_name": "Wang",
+    "title": "Adjunct Professor",
+    "current_company": "UCLA",
+    "department": "Materials Science",
+    "location": "Boston, MA",
+    "country": "Singapore",
+    "education": [
+      {
+        "institution": "Caltech",
+        "degree": "PhD",
+        "field": "Materials Science",
+        "start_year": 2008,
+        "end_year": 2014
+      },
+      {
+        "institution": "Australian National University",
+        "degree": "BS/MS",
+        "field": "Materials Science",
+        "start_year": 2004,
+        "end_year": 2007
+      }
+    ],
+    "experience": [
+      {
+        "company": "UCLA",
+        "position": "Adjunct Professor",
+        "department": "Department of Materials Science",
+        "start_date": "2018-08-23",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Tsinghua University",
+        "position": "Assistant Professor",
+        "department": "Department of Materials Science",
+        "start_date": "2010-08-25",
+        "end_date": "2018-08-23",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Quantum mechanics",
+      "Neurodegenerative diseases",
+      "Vaccine development",
+      "Cancer immunotherapy",
+      "Materials engineering"
+    ],
+    "research_interests": [
+      "Precision medicine",
+      "Nanotechnology",
+      "Machine learning"
+    ],
+    "linkedin_url": "linkedin.com/in/davidwang838",
+    "h_index": 16,
+    "total_citations": 8371,
+    "total_publications": 58,
+    "data_quality_score": 0.86,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 98
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000076",
+    "full_name": "Dr. Michelle Chen",
+    "first_name": "Michelle",
+    "last_name": "Chen",
+    "title": "Postdoctoral Researcher",
+    "current_company": "Princeton University",
+    "department": "Molecular Biology",
+    "location": "New York, NY",
+    "country": "China",
+    "education": [
+      {
+        "institution": "UCLA",
+        "degree": "PhD",
+        "field": "Molecular Biology",
+        "start_year": 2001,
+        "end_year": 2011
+      },
+      {
+        "institution": "MIT",
+        "degree": "BS/MS",
+        "field": "Molecular Biology",
+        "start_year": 2002,
+        "end_year": 2007
+      }
+    ],
+    "experience": [
+      {
+        "company": "Princeton University",
+        "position": "Postdoctoral Researcher",
+        "department": "Department of Molecular Biology",
+        "start_date": "2019-08-23",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Neurodegenerative diseases",
+      "Computational chemistry",
+      "Materials engineering",
+      "CRISPR gene editing"
+    ],
+    "research_interests": [
+      "Drug discovery",
+      "Computational chemistry",
+      "Climate modeling",
+      "Renewable energy"
+    ],
+    "linkedin_url": "linkedin.com/in/michellechen778",
+    "h_index": 71,
+    "total_citations": 9109,
+    "total_publications": 111,
+    "data_quality_score": 0.79,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 80
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000077",
+    "full_name": "Dr. Sandra Tanaka",
+    "first_name": "Sandra",
+    "last_name": "Tanaka",
+    "title": "Visiting Professor",
+    "current_company": "McGill University",
+    "department": "Applied Mathematics",
+    "location": "Los Angeles, CA",
+    "country": "Canada",
+    "education": [
+      {
+        "institution": "Imperial College London",
+        "degree": "PhD",
+        "field": "Applied Mathematics",
+        "start_year": 2010,
+        "end_year": 2015
+      },
+      {
+        "institution": "Caltech",
+        "degree": "BS/MS",
+        "field": "Applied Mathematics",
+        "start_year": 2004,
+        "end_year": 2008
+      }
+    ],
+    "experience": [
+      {
+        "company": "McGill University",
+        "position": "Visiting Professor",
+        "department": "Department of Applied Mathematics",
+        "start_date": "2022-08-22",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Australian National University",
+        "position": "Assistant Professor",
+        "department": "Department of Applied Mathematics",
+        "start_date": "2014-08-24",
+        "end_date": "2022-08-22",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Machine learning",
+      "Vaccine development",
+      "Precision medicine",
+      "Climate modeling",
+      "Materials engineering"
+    ],
+    "research_interests": [
+      "Materials engineering",
+      "Artificial intelligence",
+      "Brain-computer interfaces"
+    ],
+    "linkedin_url": "linkedin.com/in/sandratanaka914",
+    "h_index": 45,
+    "total_citations": 5215,
+    "total_publications": 46,
+    "data_quality_score": 0.87,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 92
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000078",
+    "full_name": "Dr. Matthew Wang",
+    "first_name": "Matthew",
+    "last_name": "Wang",
+    "title": "Senior Research Scientist",
+    "current_company": "Imperial College London",
+    "department": "Biochemistry",
+    "location": "San Diego, CA",
+    "country": "Japan",
+    "education": [
+      {
+        "institution": "MIT",
+        "degree": "PhD",
+        "field": "Biochemistry",
+        "start_year": 2004,
+        "end_year": 2015
+      },
+      {
+        "institution": "Cambridge University",
+        "degree": "BS/MS",
+        "field": "Biochemistry",
+        "start_year": 2000,
+        "end_year": 2008
+      }
+    ],
+    "experience": [
+      {
+        "company": "Imperial College London",
+        "position": "Senior Research Scientist",
+        "department": "Department of Biochemistry",
+        "start_date": "2015-08-24",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Climate modeling",
+      "Brain-computer interfaces",
+      "Protein folding",
+      "Precision medicine"
+    ],
+    "research_interests": [
+      "Quantum mechanics",
+      "Precision medicine"
+    ],
+    "linkedin_url": "linkedin.com/in/matthewwang345",
+    "h_index": 41,
+    "total_citations": 1331,
+    "total_publications": 150,
+    "data_quality_score": 0.77,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 82
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000079",
+    "full_name": "Dr. Patricia Miller",
+    "first_name": "Patricia",
+    "last_name": "Miller",
+    "title": "Research Director",
+    "current_company": "National University of Singapore",
+    "department": "Nanotechnology",
+    "location": "Zurich, Switzerland",
+    "country": "Japan",
+    "education": [
+      {
+        "institution": "Northwestern University",
+        "degree": "PhD",
+        "field": "Nanotechnology",
+        "start_year": 2001,
+        "end_year": 2015
+      },
+      {
+        "institution": "Yale University",
+        "degree": "BS/MS",
+        "field": "Nanotechnology",
+        "start_year": 1995,
+        "end_year": 2009
+      }
+    ],
+    "experience": [
+      {
+        "company": "National University of Singapore",
+        "position": "Research Director",
+        "department": "Department of Nanotechnology",
+        "start_date": "2011-08-25",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Cambridge University",
+        "position": "Senior Scientist",
+        "department": "Department of Nanotechnology",
+        "start_date": "2003-08-27",
+        "end_date": "2011-08-25",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Climate modeling",
+      "Vaccine development",
+      "Renewable energy",
+      "Precision medicine",
+      "CRISPR gene editing",
+      "Synthetic biology"
+    ],
+    "research_interests": [
+      "Precision medicine",
+      "Machine learning"
+    ],
+    "linkedin_url": "linkedin.com/in/patriciamiller647",
+    "h_index": 14,
+    "total_citations": 3368,
+    "total_publications": 121,
+    "data_quality_score": 0.96,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 80
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000080",
+    "full_name": "Dr. John Wang",
+    "first_name": "John",
+    "last_name": "Wang",
+    "title": "Principal Investigator",
+    "current_company": "Australian National University",
+    "department": "Environmental Science",
+    "location": "Berkeley, CA",
+    "country": "Singapore",
+    "education": [
+      {
+        "institution": "Kyoto University",
+        "degree": "PhD",
+        "field": "Environmental Science",
+        "start_year": 2004,
+        "end_year": 2010
+      },
+      {
+        "institution": "Stanford University",
+        "degree": "BS/MS",
+        "field": "Environmental Science",
+        "start_year": 1999,
+        "end_year": 2009
+      }
+    ],
+    "experience": [
+      {
+        "company": "Australian National University",
+        "position": "Principal Investigator",
+        "department": "Department of Environmental Science",
+        "start_date": "2016-08-23",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Synthetic biology",
+      "Brain-computer interfaces",
+      "Computational chemistry",
+      "Materials engineering",
+      "Drug discovery"
+    ],
+    "research_interests": [
+      "Synthetic biology",
+      "Protein folding",
+      "Climate modeling",
+      "Quantum mechanics"
+    ],
+    "linkedin_url": "linkedin.com/in/johnwang438",
+    "h_index": 30,
+    "total_citations": 8018,
+    "total_publications": 80,
+    "data_quality_score": 0.92,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 75
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000081",
+    "full_name": "Dr. Mei Thompson",
+    "first_name": "Mei",
+    "last_name": "Thompson",
+    "title": "Adjunct Professor",
+    "current_company": "Cornell University",
+    "department": "Quantum Computing",
+    "location": "Cambridge, UK",
+    "country": "UK",
+    "education": [
+      {
+        "institution": "Karolinska Institute",
+        "degree": "PhD",
+        "field": "Quantum Computing",
+        "start_year": 2003,
+        "end_year": 2011
+      },
+      {
+        "institution": "Karolinska Institute",
+        "degree": "BS/MS",
+        "field": "Quantum Computing",
+        "start_year": 2001,
+        "end_year": 2009
+      }
+    ],
+    "experience": [
+      {
+        "company": "Cornell University",
+        "position": "Adjunct Professor",
+        "department": "Department of Quantum Computing",
+        "start_date": "2020-08-22",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Harvard University",
+        "position": "Assistant Professor",
+        "department": "Department of Quantum Computing",
+        "start_date": "2012-08-24",
+        "end_date": "2020-08-22",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Drug discovery",
+      "Materials engineering",
+      "Renewable energy",
+      "Machine learning"
+    ],
+    "research_interests": [
+      "Protein folding",
+      "Genomics"
+    ],
+    "linkedin_url": "linkedin.com/in/meithompson341",
+    "h_index": 67,
+    "total_citations": 4874,
+    "total_publications": 99,
+    "data_quality_score": 0.79,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 98
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000082",
+    "full_name": "Dr. Andrew Smith",
+    "first_name": "Andrew",
+    "last_name": "Smith",
+    "title": "Lead Scientist",
+    "current_company": "Caltech",
+    "department": "Nanotechnology",
+    "location": "Cambridge, UK",
+    "country": "Australia",
+    "education": [
+      {
+        "institution": "Max Planck Institute",
+        "degree": "PhD",
+        "field": "Nanotechnology",
+        "start_year": 2000,
+        "end_year": 2015
+      },
+      {
+        "institution": "Max Planck Institute",
+        "degree": "BS/MS",
+        "field": "Nanotechnology",
+        "start_year": 2002,
+        "end_year": 2007
+      }
+    ],
+    "experience": [
+      {
+        "company": "Caltech",
+        "position": "Lead Scientist",
+        "department": "Department of Nanotechnology",
+        "start_date": "2023-08-22",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Quantum mechanics",
+      "Vaccine development",
+      "Artificial intelligence",
+      "Machine learning",
+      "Computational chemistry"
+    ],
+    "research_interests": [
+      "Materials engineering",
+      "Drug discovery"
+    ],
+    "linkedin_url": "linkedin.com/in/andrewsmith565",
+    "h_index": 57,
+    "total_citations": 7313,
+    "total_publications": 135,
+    "data_quality_score": 0.93,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 100
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000083",
+    "full_name": "Dr. Raj Wilson",
+    "first_name": "Raj",
+    "last_name": "Wilson",
+    "title": "Clinical Professor",
+    "current_company": "Northwestern University",
+    "department": "Chemistry",
+    "location": "Toronto, Canada",
+    "country": "Australia",
+    "education": [
+      {
+        "institution": "University of Michigan",
+        "degree": "PhD",
+        "field": "Chemistry",
+        "start_year": 2007,
+        "end_year": 2014
+      },
+      {
+        "institution": "University College London",
+        "degree": "BS/MS",
+        "field": "Chemistry",
+        "start_year": 1996,
+        "end_year": 2009
+      }
+    ],
+    "experience": [
+      {
+        "company": "Northwestern University",
+        "position": "Clinical Professor",
+        "department": "Department of Chemistry",
+        "start_date": "2024-08-21",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "MIT",
+        "position": "Assistant Professor",
+        "department": "Department of Chemistry",
+        "start_date": "2016-08-23",
+        "end_date": "2024-08-21",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Precision medicine",
+      "Brain-computer interfaces",
+      "Drug discovery",
+      "Stem cell research"
+    ],
+    "research_interests": [
+      "Computational chemistry",
+      "Synthetic biology",
+      "Quantum mechanics"
+    ],
+    "linkedin_url": "linkedin.com/in/rajwilson796",
+    "h_index": 36,
+    "total_citations": 8508,
+    "total_publications": 38,
+    "data_quality_score": 0.97,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 89
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000084",
+    "full_name": "Dr. Aisha Brown",
+    "first_name": "Aisha",
+    "last_name": "Brown",
+    "title": "Senior Research Scientist",
+    "current_company": "Tokyo University",
+    "department": "Cell Biology",
+    "location": "Seattle, WA",
+    "country": "USA",
+    "education": [
+      {
+        "institution": "University of Pennsylvania",
+        "degree": "PhD",
+        "field": "Cell Biology",
+        "start_year": 2007,
+        "end_year": 2014
+      },
+      {
+        "institution": "University of California Berkeley",
+        "degree": "BS/MS",
+        "field": "Cell Biology",
+        "start_year": 2003,
+        "end_year": 2008
+      }
+    ],
+    "experience": [
+      {
+        "company": "Tokyo University",
+        "position": "Senior Research Scientist",
+        "department": "Department of Cell Biology",
+        "start_date": "2015-08-24",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Protein folding",
+      "Cancer immunotherapy",
+      "Climate modeling",
+      "Neural networks",
+      "CRISPR gene editing",
+      "Brain-computer interfaces"
+    ],
+    "research_interests": [
+      "Neural networks",
+      "Brain-computer interfaces",
+      "CRISPR gene editing"
+    ],
+    "linkedin_url": "linkedin.com/in/aishabrown170",
+    "h_index": 70,
+    "total_citations": 1019,
+    "total_publications": 88,
+    "data_quality_score": 0.82,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 99
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000085",
+    "full_name": "Dr. William Murphy",
+    "first_name": "William",
+    "last_name": "Murphy",
+    "title": "Lead Scientist",
+    "current_company": "National University of Singapore",
+    "department": "Electrical Engineering",
+    "location": "Toronto, Canada",
+    "country": "Switzerland",
+    "education": [
+      {
+        "institution": "Duke University",
+        "degree": "PhD",
+        "field": "Electrical Engineering",
+        "start_year": 2006,
+        "end_year": 2013
+      },
+      {
+        "institution": "Cambridge University",
+        "degree": "BS/MS",
+        "field": "Electrical Engineering",
+        "start_year": 2005,
+        "end_year": 2010
+      }
+    ],
+    "experience": [
+      {
+        "company": "National University of Singapore",
+        "position": "Lead Scientist",
+        "department": "Department of Electrical Engineering",
+        "start_date": "2012-08-24",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Quantum mechanics",
+      "Stem cell research",
+      "Brain-computer interfaces",
+      "Genomics",
+      "Drug discovery"
+    ],
+    "research_interests": [
+      "Machine learning",
+      "Cancer immunotherapy",
+      "Precision medicine",
+      "Vaccine development"
+    ],
+    "linkedin_url": "linkedin.com/in/williammurphy574",
+    "h_index": 79,
+    "total_citations": 7448,
+    "total_publications": 112,
+    "data_quality_score": 0.95,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 82
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000086",
+    "full_name": "Dr. Sandra White",
+    "first_name": "Sandra",
+    "last_name": "White",
+    "title": "Lab Director",
+    "current_company": "Princeton University",
+    "department": "Genetics",
+    "location": "Palo Alto, CA",
+    "country": "UK",
+    "education": [
+      {
+        "institution": "Kyoto University",
+        "degree": "PhD",
+        "field": "Genetics",
+        "start_year": 2001,
+        "end_year": 2010
+      },
+      {
+        "institution": "National University of Singapore",
+        "degree": "BS/MS",
+        "field": "Genetics",
+        "start_year": 2004,
+        "end_year": 2005
+      }
+    ],
+    "experience": [
+      {
+        "company": "Princeton University",
+        "position": "Lab Director",
+        "department": "Department of Genetics",
+        "start_date": "2022-08-22",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "ETH Zurich",
+        "position": "Senior Scientist",
+        "department": "Department of Genetics",
+        "start_date": "2014-08-24",
+        "end_date": "2022-08-22",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Synthetic biology",
+      "CRISPR gene editing",
+      "Machine learning"
+    ],
+    "research_interests": [
+      "CRISPR gene editing",
+      "Genomics",
+      "Synthetic biology",
+      "Machine learning"
+    ],
+    "linkedin_url": "linkedin.com/in/sandrawhite652",
+    "h_index": 37,
+    "total_citations": 1424,
+    "total_publications": 50,
+    "data_quality_score": 0.85,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 84
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000087",
+    "full_name": "Dr. Joseph Ahmed",
+    "first_name": "Joseph",
+    "last_name": "Ahmed",
+    "title": "Adjunct Professor",
+    "current_company": "University of Toronto",
+    "department": "Data Science",
+    "location": "Los Angeles, CA",
+    "country": "China",
+    "education": [
+      {
+        "institution": "Karolinska Institute",
+        "degree": "PhD",
+        "field": "Data Science",
+        "start_year": 2010,
+        "end_year": 2012
+      },
+      {
+        "institution": "Northwestern University",
+        "degree": "BS/MS",
+        "field": "Data Science",
+        "start_year": 1999,
+        "end_year": 2006
+      }
+    ],
+    "experience": [
+      {
+        "company": "University of Toronto",
+        "position": "Adjunct Professor",
+        "department": "Department of Data Science",
+        "start_date": "2015-08-24",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Caltech",
+        "position": "Assistant Professor",
+        "department": "Department of Data Science",
+        "start_date": "2007-08-26",
+        "end_date": "2015-08-24",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Protein folding",
+      "CRISPR gene editing",
+      "Brain-computer interfaces",
+      "Stem cell research",
+      "Neurodegenerative diseases"
+    ],
+    "research_interests": [
+      "Materials engineering",
+      "CRISPR gene editing",
+      "Artificial intelligence",
+      "Genomics"
+    ],
+    "linkedin_url": "linkedin.com/in/josephahmed904",
+    "h_index": 77,
+    "total_citations": 5722,
+    "total_publications": 121,
+    "data_quality_score": 0.82,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 84
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000088",
+    "full_name": "Dr. Matthew Lopez",
+    "first_name": "Matthew",
+    "last_name": "Lopez",
+    "title": "Postdoctoral Researcher",
+    "current_company": "Kyoto University",
+    "department": "Immunology",
+    "location": "Toronto, Canada",
+    "country": "Australia",
+    "education": [
+      {
+        "institution": "Princeton University",
+        "degree": "PhD",
+        "field": "Immunology",
+        "start_year": 2002,
+        "end_year": 2013
+      },
+      {
+        "institution": "University of California Berkeley",
+        "degree": "BS/MS",
+        "field": "Immunology",
+        "start_year": 2003,
+        "end_year": 2008
+      }
+    ],
+    "experience": [
+      {
+        "company": "Kyoto University",
+        "position": "Postdoctoral Researcher",
+        "department": "Department of Immunology",
+        "start_date": "2019-08-23",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Genomics",
+      "Machine learning",
+      "Protein folding",
+      "Climate modeling"
+    ],
+    "research_interests": [
+      "Neural networks",
+      "Synthetic biology",
+      "Artificial intelligence"
+    ],
+    "linkedin_url": "linkedin.com/in/matthewlopez194",
+    "h_index": 78,
+    "total_citations": 3620,
+    "total_publications": 28,
+    "data_quality_score": 0.78,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 96
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000089",
+    "full_name": "Dr. Joshua Dubois",
+    "first_name": "Joshua",
+    "last_name": "Dubois",
+    "title": "Assistant Professor",
+    "current_company": "Harvard University",
+    "department": "Genetics",
+    "location": "London, UK",
+    "country": "Canada",
+    "education": [
+      {
+        "institution": "National University of Singapore",
+        "degree": "PhD",
+        "field": "Genetics",
+        "start_year": 2009,
+        "end_year": 2015
+      },
+      {
+        "institution": "University of Pennsylvania",
+        "degree": "BS/MS",
+        "field": "Genetics",
+        "start_year": 2002,
+        "end_year": 2006
+      }
+    ],
+    "experience": [
+      {
+        "company": "Harvard University",
+        "position": "Assistant Professor",
+        "department": "Department of Genetics",
+        "start_date": "2012-08-24",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Kyoto University",
+        "position": "Assistant Professor",
+        "department": "Department of Genetics",
+        "start_date": "2004-08-26",
+        "end_date": "2012-08-24",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Climate modeling",
+      "Nanotechnology",
+      "Quantum mechanics"
+    ],
+    "research_interests": [
+      "Materials engineering",
+      "Machine learning",
+      "Climate modeling",
+      "Genomics"
+    ],
+    "linkedin_url": "linkedin.com/in/joshuadubois345",
+    "h_index": 80,
+    "total_citations": 5769,
+    "total_publications": 87,
+    "data_quality_score": 0.81,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 92
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000090",
+    "full_name": "Dr. Yuki White",
+    "first_name": "Yuki",
+    "last_name": "White",
+    "title": "Lab Director",
+    "current_company": "UCLA",
+    "department": "Applied Mathematics",
+    "location": "Oxford, UK",
+    "country": "Singapore",
+    "education": [
+      {
+        "institution": "Caltech",
+        "degree": "PhD",
+        "field": "Applied Mathematics",
+        "start_year": 2007,
+        "end_year": 2013
+      },
+      {
+        "institution": "ETH Zurich",
+        "degree": "BS/MS",
+        "field": "Applied Mathematics",
+        "start_year": 2002,
+        "end_year": 2007
+      }
+    ],
+    "experience": [
+      {
+        "company": "UCLA",
+        "position": "Lab Director",
+        "department": "Department of Applied Mathematics",
+        "start_date": "2011-08-25",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "ETH Zurich",
+        "position": "Senior Scientist",
+        "department": "Department of Applied Mathematics",
+        "start_date": "2003-08-27",
+        "end_date": "2011-08-25",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "CRISPR gene editing",
+      "Precision medicine",
+      "Machine learning",
+      "Drug discovery",
+      "Cancer immunotherapy",
+      "Computational chemistry"
+    ],
+    "research_interests": [
+      "Precision medicine",
+      "Nanotechnology",
+      "Neurodegenerative diseases",
+      "Vaccine development"
+    ],
+    "linkedin_url": "linkedin.com/in/yukiwhite256",
+    "h_index": 35,
+    "total_citations": 5904,
+    "total_publications": 73,
+    "data_quality_score": 0.81,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 82
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000091",
+    "full_name": "Dr. Ashley Sato",
+    "first_name": "Ashley",
+    "last_name": "Sato",
+    "title": "Lab Director",
+    "current_company": "McGill University",
+    "department": "Biophysics",
+    "location": "Oxford, UK",
+    "country": "Switzerland",
+    "education": [
+      {
+        "institution": "Australian National University",
+        "degree": "PhD",
+        "field": "Biophysics",
+        "start_year": 2010,
+        "end_year": 2015
+      },
+      {
+        "institution": "Australian National University",
+        "degree": "BS/MS",
+        "field": "Biophysics",
+        "start_year": 2002,
+        "end_year": 2006
+      }
+    ],
+    "experience": [
+      {
+        "company": "McGill University",
+        "position": "Lab Director",
+        "department": "Department of Biophysics",
+        "start_date": "2014-08-24",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "National University of Singapore",
+        "position": "Senior Scientist",
+        "department": "Department of Biophysics",
+        "start_date": "2006-08-26",
+        "end_date": "2014-08-24",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Brain-computer interfaces",
+      "Materials engineering",
+      "Stem cell research",
+      "CRISPR gene editing"
+    ],
+    "research_interests": [
+      "CRISPR gene editing",
+      "Neural networks",
+      "Nanotechnology",
+      "Cancer immunotherapy"
+    ],
+    "linkedin_url": "linkedin.com/in/ashleysato522",
+    "h_index": 27,
+    "total_citations": 4291,
+    "total_publications": 32,
+    "data_quality_score": 0.91,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 75
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000092",
+    "full_name": "Dr. Susan Kim",
+    "first_name": "Susan",
+    "last_name": "Kim",
+    "title": "Lead Scientist",
+    "current_company": "Tokyo University",
+    "department": "Molecular Biology",
+    "location": "Boston, MA",
+    "country": "Australia",
+    "education": [
+      {
+        "institution": "UCLA",
+        "degree": "PhD",
+        "field": "Molecular Biology",
+        "start_year": 2010,
+        "end_year": 2015
+      },
+      {
+        "institution": "Kyoto University",
+        "degree": "BS/MS",
+        "field": "Molecular Biology",
+        "start_year": 2005,
+        "end_year": 2008
+      }
+    ],
+    "experience": [
+      {
+        "company": "Tokyo University",
+        "position": "Lead Scientist",
+        "department": "Department of Molecular Biology",
+        "start_date": "2025-08-21",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Cancer immunotherapy",
+      "Nanotechnology",
+      "Computational chemistry",
+      "Protein folding",
+      "Vaccine development",
+      "Precision medicine"
+    ],
+    "research_interests": [
+      "Neurodegenerative diseases",
+      "Stem cell research",
+      "Quantum mechanics",
+      "Brain-computer interfaces"
+    ],
+    "linkedin_url": "linkedin.com/in/susankim636",
+    "h_index": 29,
+    "total_citations": 4448,
+    "total_publications": 64,
+    "data_quality_score": 0.89,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 83
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000093",
+    "full_name": "Dr. Pierre White",
+    "first_name": "Pierre",
+    "last_name": "White",
+    "title": "Senior Scientist",
+    "current_company": "University of Michigan",
+    "department": "Chemistry",
+    "location": "Palo Alto, CA",
+    "country": "USA",
+    "education": [
+      {
+        "institution": "University of Chicago",
+        "degree": "PhD",
+        "field": "Chemistry",
+        "start_year": 2006,
+        "end_year": 2013
+      },
+      {
+        "institution": "Northwestern University",
+        "degree": "BS/MS",
+        "field": "Chemistry",
+        "start_year": 1998,
+        "end_year": 2007
+      }
+    ],
+    "experience": [
+      {
+        "company": "University of Michigan",
+        "position": "Senior Scientist",
+        "department": "Department of Chemistry",
+        "start_date": "2015-08-24",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Genomics",
+      "Nanotechnology",
+      "Precision medicine"
+    ],
+    "research_interests": [
+      "Materials engineering",
+      "CRISPR gene editing",
+      "Cancer immunotherapy",
+      "Stem cell research"
+    ],
+    "linkedin_url": "linkedin.com/in/pierrewhite184",
+    "h_index": 73,
+    "total_citations": 7609,
+    "total_publications": 99,
+    "data_quality_score": 0.87,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 78
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000094",
+    "full_name": "Dr. Kimberly Williams",
+    "first_name": "Kimberly",
+    "last_name": "Williams",
+    "title": "Research Fellow",
+    "current_company": "Duke University",
+    "department": "Nanotechnology",
+    "location": "San Diego, CA",
+    "country": "Australia",
+    "education": [
+      {
+        "institution": "Tokyo University",
+        "degree": "PhD",
+        "field": "Nanotechnology",
+        "start_year": 2009,
+        "end_year": 2013
+      },
+      {
+        "institution": "University of Michigan",
+        "degree": "BS/MS",
+        "field": "Nanotechnology",
+        "start_year": 1995,
+        "end_year": 2005
+      }
+    ],
+    "experience": [
+      {
+        "company": "Duke University",
+        "position": "Research Fellow",
+        "department": "Department of Nanotechnology",
+        "start_date": "2015-08-24",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Stem cell research",
+      "Renewable energy",
+      "Cancer immunotherapy"
+    ],
+    "research_interests": [
+      "Precision medicine",
+      "Drug discovery"
+    ],
+    "linkedin_url": "linkedin.com/in/kimberlywilliams870",
+    "h_index": 60,
+    "total_citations": 1760,
+    "total_publications": 91,
+    "data_quality_score": 0.75,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 82
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000095",
+    "full_name": "Dr. Andrew Chen",
+    "first_name": "Andrew",
+    "last_name": "Chen",
+    "title": "Senior Scientist",
+    "current_company": "McGill University",
+    "department": "Environmental Science",
+    "location": "Los Angeles, CA",
+    "country": "UK",
+    "education": [
+      {
+        "institution": "Oxford University",
+        "degree": "PhD",
+        "field": "Environmental Science",
+        "start_year": 2001,
+        "end_year": 2014
+      },
+      {
+        "institution": "Imperial College London",
+        "degree": "BS/MS",
+        "field": "Environmental Science",
+        "start_year": 1995,
+        "end_year": 2005
+      }
+    ],
+    "experience": [
+      {
+        "company": "McGill University",
+        "position": "Senior Scientist",
+        "department": "Department of Environmental Science",
+        "start_date": "2019-08-23",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Nanotechnology",
+      "Genomics",
+      "Renewable energy",
+      "Cancer immunotherapy",
+      "Protein folding"
+    ],
+    "research_interests": [
+      "Materials engineering",
+      "Machine learning",
+      "Artificial intelligence"
+    ],
+    "linkedin_url": "linkedin.com/in/andrewchen666",
+    "h_index": 58,
+    "total_citations": 7575,
+    "total_publications": 62,
+    "data_quality_score": 0.9,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 96
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000096",
+    "full_name": "Dr. Matthew Garcia",
+    "first_name": "Matthew",
+    "last_name": "Garcia",
+    "title": "Postdoctoral Researcher",
+    "current_company": "Cornell University",
+    "department": "Nanotechnology",
+    "location": "Beijing, China",
+    "country": "Switzerland",
+    "education": [
+      {
+        "institution": "Harvard University",
+        "degree": "PhD",
+        "field": "Nanotechnology",
+        "start_year": 2001,
+        "end_year": 2012
+      },
+      {
+        "institution": "Princeton University",
+        "degree": "BS/MS",
+        "field": "Nanotechnology",
+        "start_year": 2001,
+        "end_year": 2010
+      }
+    ],
+    "experience": [
+      {
+        "company": "Cornell University",
+        "position": "Postdoctoral Researcher",
+        "department": "Department of Nanotechnology",
+        "start_date": "2013-08-24",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Renewable energy",
+      "Artificial intelligence",
+      "Quantum mechanics",
+      "Neural networks",
+      "Cancer immunotherapy",
+      "Drug discovery"
+    ],
+    "research_interests": [
+      "Artificial intelligence",
+      "Protein folding",
+      "Quantum mechanics"
+    ],
+    "linkedin_url": "linkedin.com/in/matthewgarcia235",
+    "h_index": 21,
+    "total_citations": 3570,
+    "total_publications": 125,
+    "data_quality_score": 0.83,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 92
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000097",
+    "full_name": "Dr. Steven Zhang",
+    "first_name": "Steven",
+    "last_name": "Zhang",
+    "title": "Professor",
+    "current_company": "ETH Zurich",
+    "department": "Chemistry",
+    "location": "Cambridge, UK",
+    "country": "UK",
+    "education": [
+      {
+        "institution": "Johns Hopkins University",
+        "degree": "PhD",
+        "field": "Chemistry",
+        "start_year": 2008,
+        "end_year": 2010
+      },
+      {
+        "institution": "University of Toronto",
+        "degree": "BS/MS",
+        "field": "Chemistry",
+        "start_year": 2001,
+        "end_year": 2005
+      }
+    ],
+    "experience": [
+      {
+        "company": "ETH Zurich",
+        "position": "Professor",
+        "department": "Department of Chemistry",
+        "start_date": "2021-08-22",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Duke University",
+        "position": "Assistant Professor",
+        "department": "Department of Chemistry",
+        "start_date": "2013-08-24",
+        "end_date": "2021-08-22",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Precision medicine",
+      "Computational chemistry",
+      "Stem cell research",
+      "Genomics"
+    ],
+    "research_interests": [
+      "Drug discovery",
+      "Protein folding"
+    ],
+    "linkedin_url": "linkedin.com/in/stevenzhang408",
+    "h_index": 44,
+    "total_citations": 8579,
+    "total_publications": 52,
+    "data_quality_score": 0.72,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 88
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000098",
+    "full_name": "Dr. Sarah Zhang",
+    "first_name": "Sarah",
+    "last_name": "Zhang",
+    "title": "Research Associate Professor",
+    "current_company": "UCLA",
+    "department": "Chemistry",
+    "location": "Berkeley, CA",
+    "country": "Switzerland",
+    "education": [
+      {
+        "institution": "University of Chicago",
+        "degree": "PhD",
+        "field": "Chemistry",
+        "start_year": 2004,
+        "end_year": 2011
+      },
+      {
+        "institution": "Australian National University",
+        "degree": "BS/MS",
+        "field": "Chemistry",
+        "start_year": 2004,
+        "end_year": 2009
+      }
+    ],
+    "experience": [
+      {
+        "company": "UCLA",
+        "position": "Research Associate Professor",
+        "department": "Department of Chemistry",
+        "start_date": "2022-08-22",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Duke University",
+        "position": "Assistant Professor",
+        "department": "Department of Chemistry",
+        "start_date": "2014-08-24",
+        "end_date": "2022-08-22",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Cancer immunotherapy",
+      "Genomics",
+      "Renewable energy",
+      "Precision medicine",
+      "Brain-computer interfaces"
+    ],
+    "research_interests": [
+      "Renewable energy",
+      "Neurodegenerative diseases",
+      "Drug discovery"
+    ],
+    "linkedin_url": "linkedin.com/in/sarahzhang407",
+    "h_index": 51,
+    "total_citations": 3790,
+    "total_publications": 137,
+    "data_quality_score": 0.79,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 87
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000099",
+    "full_name": "Dr. Christopher Jackson",
+    "first_name": "Christopher",
+    "last_name": "Jackson",
+    "title": "Adjunct Professor",
+    "current_company": "Australian National University",
+    "department": "Immunology",
+    "location": "San Francisco, CA",
+    "country": "Australia",
+    "education": [
+      {
+        "institution": "Columbia University",
+        "degree": "PhD",
+        "field": "Immunology",
+        "start_year": 2006,
+        "end_year": 2012
+      },
+      {
+        "institution": "Karolinska Institute",
+        "degree": "BS/MS",
+        "field": "Immunology",
+        "start_year": 2000,
+        "end_year": 2005
+      }
+    ],
+    "experience": [
+      {
+        "company": "Australian National University",
+        "position": "Adjunct Professor",
+        "department": "Department of Immunology",
+        "start_date": "2011-08-25",
+        "end_date": null,
+        "is_current": true
+      },
+      {
+        "company": "Cornell University",
+        "position": "Assistant Professor",
+        "department": "Department of Immunology",
+        "start_date": "2003-08-27",
+        "end_date": "2011-08-25",
+        "is_current": false
+      }
+    ],
+    "skills": [
+      "Brain-computer interfaces",
+      "Cancer immunotherapy",
+      "Synthetic biology",
+      "Climate modeling"
+    ],
+    "research_interests": [
+      "Vaccine development",
+      "Neural networks",
+      "Neurodegenerative diseases"
+    ],
+    "linkedin_url": "linkedin.com/in/christopherjackson789",
+    "h_index": 73,
+    "total_citations": 2780,
+    "total_publications": 92,
+    "data_quality_score": 0.77,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 96
+  },
+  {
+    "source": "coresignal",
+    "person_id": "CS_000100",
+    "full_name": "Dr. Barbara Levy",
+    "first_name": "Barbara",
+    "last_name": "Levy",
+    "title": "Senior Scientist",
+    "current_company": "Tsinghua University",
+    "department": "Chemistry",
+    "location": "Sydney, Australia",
+    "country": "China",
+    "education": [
+      {
+        "institution": "Duke University",
+        "degree": "PhD",
+        "field": "Chemistry",
+        "start_year": 2009,
+        "end_year": 2013
+      },
+      {
+        "institution": "Karolinska Institute",
+        "degree": "BS/MS",
+        "field": "Chemistry",
+        "start_year": 2003,
+        "end_year": 2009
+      }
+    ],
+    "experience": [
+      {
+        "company": "Tsinghua University",
+        "position": "Senior Scientist",
+        "department": "Department of Chemistry",
+        "start_date": "2011-08-25",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "skills": [
+      "Artificial intelligence",
+      "Brain-computer interfaces",
+      "Neural networks"
+    ],
+    "research_interests": [
+      "Machine learning",
+      "Artificial intelligence"
+    ],
+    "linkedin_url": "linkedin.com/in/barbaralevy270",
+    "h_index": 15,
+    "total_citations": 9727,
+    "total_publications": 117,
+    "data_quality_score": 0.99,
+    "last_updated": "2026-08-21 11:25:41",
+    "profile_completeness": 85
+  }
+]
