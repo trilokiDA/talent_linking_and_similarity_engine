@@ -72,6 +72,29 @@ def normalize_rocketreach(input_file, output_dir):
         with open(output_file, 'w', encoding='utf-8') as out_f:
             json.dump(normalized, out_f, indent=2)
 
+def normalize_borealis(input_file, output_dir):
+    with open(input_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+        
+    for item in data:
+        person_id = item.get('b_id')
+        if not person_id:
+            continue
+            
+        normalized = {
+            "id": person_id,
+            "full_name": item.get('name'),
+            "current_employer": item.get('company'),
+            "title": item.get('position'),
+            "linkedin_username": get_linkedin_username(item.get('linkedin')),
+            "full_adress": item.get('location'),
+            "contact_number": item.get('phone')
+        }
+        
+        output_file = os.path.join(output_dir, f"{person_id}.json")
+        with open(output_file, 'w', encoding='utf-8') as out_f:
+            json.dump(normalized, out_f, indent=2)
+
 def main():
     base_dir = Path("D:/Project/atlas/talent_linking_and_similarity_engine")
     data_lake = base_dir / "data-lake"
@@ -79,9 +102,11 @@ def main():
     # Create output directories
     coresignal_out = base_dir / "processed-data" / "normalization" / "coresignal"
     rocketreach_out = base_dir / "processed-data" / "normalization" / "rocketreach"
+    borealis_out = base_dir / "processed-data" / "normalization" / "borealis"
     
     coresignal_out.mkdir(parents=True, exist_ok=True)
     rocketreach_out.mkdir(parents=True, exist_ok=True)
+    borealis_out.mkdir(parents=True, exist_ok=True)
     
     # Process CoreSignal files
     print("Processing CoreSignal...")
@@ -92,6 +117,11 @@ def main():
     print("Processing RocketReach...")
     for file_path in data_lake.glob("rocketreach/**/*.json"):
         normalize_rocketreach(file_path, rocketreach_out)
+
+    # Process Borealis files
+    print("Processing Borealis...")
+    for file_path in data_lake.glob("borealis/**/*.json"):
+        normalize_borealis(file_path, borealis_out)
         
     print("Normalization complete.")
 
