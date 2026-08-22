@@ -1,0 +1,102 @@
+[
+  {
+    "source": "borealis",
+    "b_id": "BOR_103",
+    "name": "Dr. Aisha Lee",
+    "company": "Karolinska Institute",
+    "position": "Lab Director",
+    "linkedin": "linkedin.com/in/aishalee324",
+    "location": "Beijing, China, Japan",
+    "phone": null
+  },
+  {
+    "source": "borealis",
+    "b_id": "BOR_203",
+    "name": "Dr. Hans Hernandez",
+    "company": "Peking University",
+    "position": "Group Leader",
+    "linkedin": "linkedin.com/in/hanshernandez",
+    "location": "Boston, UK, UK",
+    "phone": "+49-41-1848-7493"
+  },
+  {
+    "source": "borealis",
+    "b_id": "BOR_202",
+    "name": "Dr. Ahmed Zhang",
+    "company": "University of California Berkeley",
+    "position": "Lab Director",
+    "linkedin": "linkedin.com/in/ahmedzhang",
+    "location": "London, Singapore, UK",
+    "phone": "+44-82-3329-5402"
+  },
+  {
+    "source": "borealis",
+    "b_id": "BOR_300",
+    "name": "Alice Johnson",
+    "company": "Tech Innovations Inc.",
+    "position": "Software Engineer",
+    "linkedin": "linkedin.com/in/alicej",
+    "location": "San Francisco, CA, USA",
+    "phone": "+1-555-0192"
+  },
+  {
+    "source": "borealis",
+    "b_id": "BOR_100",
+    "name": "Dr. Wei Davis",
+    "company": "MIT",
+    "position": "Lab Director",
+    "linkedin": "linkedin.com/in/weidavis674",
+    "location": "Palo Alto, CA, China",
+    "phone": null
+  },
+  {
+    "source": "borealis",
+    "b_id": "BOR_200",
+    "name": "Dr. Ahmed Liu",
+    "company": "ETH Zurich",
+    "position": "Professor",
+    "linkedin": "linkedin.com/in/ahmedliu",
+    "location": "Berkeley, IL, Switzerland",
+    "phone": "+49-79-9199-3469"
+  },
+  {
+    "source": "borealis",
+    "b_id": "BOR_301",
+    "name": "Bob Smith",
+    "company": "Global Solutions Ltd.",
+    "position": "Product Manager",
+    "linkedin": "linkedin.com/in/bobsmith",
+    "location": "London, UK",
+    "phone": "+44-20-7123-4567"
+  },
+  {
+    "source": "borealis",
+    "b_id": "BOR_102",
+    "name": "Dr. Raj Anderson",
+    "company": "Cornell University",
+    "position": "Assistant Professor",
+    "linkedin": "linkedin.com/in/rajanderson376",
+    "location": "Chicago, IL, Singapore",
+    "phone": null
+  },
+  {
+    "source": "borealis",
+    "b_id": "BOR_101",
+    "name": "Dr. Sarah Smith",
+    "company": "Columbia University",
+    "position": "Staff Scientist",
+    "linkedin": "linkedin.com/in/sarahsmith949",
+    "location": "Berkeley, CA, Singapore",
+    "phone": null
+  },
+  {
+    "source": "borealis",
+    "b_id": "BOR_201",
+    "name": "Dr. Michelle Lopez",
+    "company": "UCLA",
+    "position": "Clinical Professor",
+    "linkedin": "linkedin.com/in/michellelopez",
+    "location": "Singapore, Canada, Switzerland",
+    "phone": "+1-512-319-3999"
+  }
+]
