@@ -96,7 +96,8 @@ def normalize_borealis(input_file, output_dir):
             json.dump(normalized, out_f, indent=2)
 
 def main():
-    base_dir = Path("D:/Project/atlas/talent_linking_and_similarity_engine")
+    # Use current working directory as base
+    base_dir = Path(__file__).parent.parent
     data_lake = base_dir / "data-lake"
     
     # Create output directories

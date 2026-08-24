@@ -55,7 +55,8 @@ def match_profile(borealis_data, rr_indexes, cs_indexes):
     return None, None
 
 def main():
-    base_dir = Path("D:/Project/atlas/talent_linking_and_similarity_engine")
+    # Use current working directory as base
+    base_dir = Path(__file__).parent.parent
     norm_dir = base_dir / "processed-data" / "normalization"
     
     borealis_dir = norm_dir / "borealis"
