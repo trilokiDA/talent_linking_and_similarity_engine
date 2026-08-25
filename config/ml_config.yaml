@@ -1,0 +1,24 @@
+# ML Matching Configuration for Atlas Identity Resolution
+
+matching:
+  similarity_threshold: 0.95  # Very strict threshold for high precision
+  name_weight: 0.6            # Weight for name similarity in final score
+  location_weight: 0.4        # Weight for location similarity in final score
+
+embeddings:
+  name:
+    tfidf_weight: 0.7         # TF-IDF weight in hybrid embedding
+    fasttext_weight: 0.3      # FastText weight in hybrid embedding
+    char_ngram_range: [2, 5]  # Character n-gram range for TF-IDF
+    svd_components: 100       # Number of SVD components for dimensionality reduction
+
+  location:
+    tfidf_weight: 0.3         # TF-IDF weight in hybrid embedding
+    fasttext_weight: 0.7      # FastText weight in hybrid embedding
+    word_ngram_range: [1, 2]  # Word n-gram range for TF-IDF
+    svd_components: 50        # Number of SVD components for dimensionality reduction
+
+fasttext:
+  model_path: "models/fasttext/cc.en.100.bin"  # Path to FastText model
+  dimensions: 100             # FastText embedding dimensions
+  download_url: "https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.100.bin.gz"

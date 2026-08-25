@@ -98,5 +98,15 @@
     "linkedin": "linkedin.com/in/michellelopez",
     "location": "Singapore, Canada, Switzerland",
     "phone": "+1-512-319-3999"
+  },
+  {
+    "source": "borealis",
+    "b_id": "BOR_401",
+    "name": "Triloki Gupta",
+    "company": "EPAM",
+    "position": "Sr Data Scientist",
+    "linkedin": "",
+    "location": "Bangalore, Karnataka, India",
+    "phone": ""
   }
 ]

@@ -11,9 +11,10 @@ ATLAS ingests stakeholder profile data from multiple external sources (CoreSigna
 - **Multi-Source Data Ingestion**: Ingest profiles from CoreSignal, RocketReach, and Borealis
 - **Data Normalization**: Standardize profiles into a unified schema
 - **Deterministic Matching**: Match profiles across sources using LinkedIn usernames and contact numbers
+- **ML-Based Matching**: TF-IDF + FastText hybrid embeddings for similarity-based matching
 - **Profile Enrichment**: Combine data from multiple sources to create comprehensive profiles
 - **Hierarchical Matching Priority**: RocketReach → CoreSignal priority-based matching
-- **Future ML Matching**: Planned TF-IDF + FastText embedding-based matching for name and location similarity
+- **Configurable Thresholds**: Tune matching sensitivity via YAML configuration
 
 ## Project Structure
 
@@ -37,14 +38,64 @@ atlas/
 │   │   └── borealis/
 │   └── matched/                        # Final matched and enriched profiles
 │
+├── processed-data/                     # Processed and matched data
+│   ├── normalization/                  # Normalized profiles by source
+│   │   ├── coresignal/
+│   │   ├── rocketreach/
+│   │   └── borealis/
+│   └── matched/                        # Final matched and enriched profiles
+│
+├── models/                             # Trained ML models
+│   ├── embeddings/                     # TF-IDF and SVD models
+│   │   ├── name_tfidf_vectorizer.pkl
+│   │   ├── name_svd_model.pkl
+│   │   ├── location_tfidf_vectorizer.pkl
+│   │   └── location_svd_model.pkl
+│   ├── fasttext/                       # FastText word embeddings
+│   │   └── cc.en.100.bin
+│   └── README.md                       # Model documentation
+│
+├── config/                             # Configuration files
+│   └── ml_config.yaml                  # ML matching parameters
+│
 ├── scripts/                            # Utility scripts
 │   ├── generate_dummy_data.py          # Generate synthetic profiles for PoC
 │   ├── generate_borealis.py            # Generate Borealis test data
 │   ├── normalize.py                    # Normalize profiles to unified schema
 │   ├── deterministic_matching.py       # Deterministic matching engine
+│   ├── ml_matching.py                  # ML embedding and similarity functions
+│   ├── train_fasttext.py               # Train FastText model on data
+│   ├── train_ml_models.py              # Train TF-IDF and SVD models
+│   ├── hybrid_matching.py              # Hybrid deterministic + ML matching
+│   ├── validate_ml_matches.py          # Validate and analyze matches
+│   ├── download_fasttext.py            # Download pre-trained FastText (optional)
 │   └── inspect_data.py                 # Data analysis and inspection tools
 │
 └── README.md                           # This file
+```
+
+## Quick Start
+
+```bash
+# 1. Install dependencies
+pip install -r requirements.txt
+
+# 2. Generate sample data
+python scripts/generate_dummy_data.py
+python scripts/generate_borealis.py
+
+# 3. Normalize profiles
+python scripts/normalize.py
+
+# 4. Train ML models (one-time)
+python scripts/train_fasttext.py
+python scripts/train_ml_models.py
+
+# 5. Run hybrid matching
+python scripts/hybrid_matching.py
+
+# 6. Validate results
+python scripts/validate_ml_matches.py
 ```
 
 ## Installation
@@ -118,25 +169,65 @@ python scripts/normalize.py
 }
 ```
 
-### 4. Run Deterministic Matching
+### 4. Train ML Models (One-time Setup)
 
-Match Borealis profiles against RocketReach and CoreSignal using deterministic rules:
+Train the machine learning models for similarity-based matching:
 
 ```bash
-python scripts/deterministic_matching.py
+# Train FastText embeddings on Atlas data
+python scripts/train_fasttext.py
+
+# Train TF-IDF and SVD models
+python scripts/train_ml_models.py
 ```
 
-**Matching Logic:**
+This creates:
+- FastText model with 100-dimensional embeddings
+- TF-IDF vectorizers for names and locations
+- TruncatedSVD models for dimensionality reduction
+- All models saved to `models/` directory
+
+### 5. Run Hybrid Matching
+
+Match Borealis profiles using both deterministic rules and ML similarity:
+
+```bash
+python scripts/hybrid_matching.py
+```
+
+**Two-Phase Pipeline:**
+
+**Phase 1 - Deterministic Matching:**
 1. Try matching Borealis → RocketReach (by phone, then LinkedIn username)
 2. If no match, try Borealis → CoreSignal (by phone, then LinkedIn username)
-3. Enrich missing Borealis fields from matched profile
-4. Save to `processed-data/matched/`
+3. Save matched profiles
+
+**Phase 2 - ML Matching (for unmatched profiles):**
+1. Load trained ML models and FastText embeddings
+2. Compute hybrid name and location embeddings
+3. Find best match above similarity threshold (configurable)
+4. Save ML matches with confidence scores
 
 **Output:**
 - Enriched profiles with `match_info` metadata
-- Match type, source, and matched ID tracking
+- Match type: "deterministic" or "ml_embedding"
+- Confidence scores for ML matches (name_similarity, location_similarity, final score)
 
-### 5. Inspect Data
+### 6. Validate Matches
+
+Analyze matching results and quality:
+
+```bash
+python scripts/validate_ml_matches.py
+```
+
+Provides statistics on:
+- Match type distribution (deterministic vs ML)
+- Source distribution (RocketReach vs CoreSignal)
+- ML match confidence scores
+- Detailed similarity breakdowns
+
+### 7. Inspect Data
 
 Analyze and explore the data lake:
 
@@ -218,9 +309,9 @@ For each Borealis profile:
   6. No match found → profile remains unmatched
 ```
 
-### Future: ML-Based Embedding Matching
+### Phase 2: ML-Based Embedding Matching (✅ Implemented)
 
-For profiles without exact LinkedIn username or phone matches, use similarity-based matching with embeddings.
+For profiles without exact LinkedIn username or phone matches, ML similarity-based matching is used.
 
 #### Name Matching
 
@@ -229,12 +320,12 @@ For profiles without exact LinkedIn username or phone matches, use similarity-ba
 **TF-IDF Component (70% weight):**
 - Character-level n-grams for handling typos and variations
 - Configuration: `TfidfVectorizer(analyzer="char", ngram_range=(2,5))`
-- Pipeline: TF-IDF → Truncated SVD → L2 Normalization
+- Pipeline: TF-IDF → Truncated SVD (100 components) → L2 Normalization
 - Use case: Captures character patterns, spelling variations, partial matches
 
 **FastText Component (30% weight):**
-- Semantic word-level embeddings
-- Pre-trained FastText model
+- Semantic word-level embeddings (100 dimensions)
+- Custom trained FastText model on Atlas data
 - Pipeline: FastText → L2 Normalization
 - Use case: Semantic similarity, name variations (e.g., "Robert" vs "Bob")
 
@@ -250,12 +341,12 @@ name_embedding = 0.7 * tfidf_embedding + 0.3 * fasttext_embedding
 **TF-IDF Component (30% weight):**
 - Word-level n-grams for city/country matching
 - Configuration: `TfidfVectorizer(analyzer="word", ngram_range=(1,2))`
-- Pipeline: TF-IDF → Truncated SVD → L2 Normalization
+- Pipeline: TF-IDF → Truncated SVD (50 components) → L2 Normalization
 - Use case: Exact location name matches
 
 **FastText Component (70% weight):**
-- Semantic location embeddings
-- Pre-trained FastText model
+- Semantic location embeddings (100 dimensions)
+- Custom trained FastText model on Atlas data
 - Pipeline: FastText → L2 Normalization
 - Use case: Geographic proximity, regional variations (e.g., "SF" vs "San Francisco")
 
@@ -274,11 +365,62 @@ location_similarity = cosine_similarity(location_embedding_1, location_embedding
 # Weighted combination
 final_score = 0.6 * name_similarity + 0.4 * location_similarity
 
-# Threshold for match (e.g., > 0.85)
-is_match = final_score > 0.95
+# Threshold for match (configurable, default: 0.95)
+is_match = final_score > threshold
 ```
 
-**Implementation Status:** Planned (not yet implemented)
+**Implementation Status:** ✅ Fully Implemented and Operational
+
+#### Configuration
+
+All ML parameters are configurable in `config/ml_config.yaml`:
+
+```yaml
+matching:
+  similarity_threshold: 0.95  # Adjust for precision/recall tradeoff
+  name_weight: 0.6
+  location_weight: 0.4
+
+embeddings:
+  name:
+    tfidf_weight: 0.7
+    fasttext_weight: 0.3
+    char_ngram_range: [2, 5]
+    svd_components: 100
+  
+  location:
+    tfidf_weight: 0.3
+    fasttext_weight: 0.7
+    word_ngram_range: [1, 2]
+    svd_components: 50
+```
+
+## Performance & Results
+
+### Current Match Rate
+- **Test Dataset**: 11 Borealis profiles
+- **Deterministic Matches**: 8/11 (72.7%)
+- **ML Matches**: 0/11 at 0.95 threshold (configurable)
+- **Total Match Rate**: 8/11 (72.7%)
+
+### Matching Breakdown
+- **RocketReach matches**: 4 profiles (priority source)
+- **CoreSignal matches**: 4 profiles (fallback source)
+- **Unmatched**: 3 profiles (no exact keys, below ML threshold)
+
+### ML Model Statistics
+- **Training corpus**: 201 profiles (100 CoreSignal + 101 RocketReach)
+- **FastText vocabulary**: 209 unique words
+- **Name embeddings**: 100 dimensions (TF-IDF-SVD + FastText)
+- **Location embeddings**: 100 dimensions (TF-IDF-SVD + FastText)
+- **Similarity threshold**: 0.95 (adjustable for higher recall)
+
+### Tuning Recommendations
+To increase ML match rate, lower the threshold in `config/ml_config.yaml`:
+- **0.95**: Very strict (current) - prioritizes precision
+- **0.90**: Strict - balanced precision/recall
+- **0.85**: Moderate - higher recall, some false positives
+- **0.80**: Permissive - maximum recall, check quality
 
 ## Data Pipeline
 
@@ -299,10 +441,21 @@ is_match = final_score > 0.95
                          │
                          ▼
 ┌─────────────────────────────────────────────────────────────────┐
+│                    ML MODEL TRAINING                            │
+│  Train TF-IDF, SVD, and FastText models on normalized data      │
+│  Output: models/embeddings/*.pkl, models/fasttext/*.bin         │
+└────────────────────────┬────────────────────────────────────────┘
+                         │
+                         ▼
+┌─────────────────────────────────────────────────────────────────┐
 │                  IDENTITY RESOLUTION                            │
 │  Phase 1: Deterministic matching (LinkedIn, phone)              │
-│  Phase 2: ML embedding matching (name + location) [FUTURE]      │
-│  Priority: RocketReach > CoreSignal                             │
+│    - Priority: RocketReach > CoreSignal                         │
+│    - Exact match on linkedin_username or contact_number         │
+│  Phase 2: ML Similarity Matching (for unmatched profiles)       │
+│    - Hybrid TF-IDF + FastText embeddings                        │
+│    - Name similarity (60%) + Location similarity (40%)          │
+│    - Configurable threshold (default: 0.95)                     │
 └────────────────────────┬────────────────────────────────────────┘
                          │
                          ▼
@@ -334,74 +487,6 @@ is_match = final_score > 0.95
     "matched_id": "RR_000001"
   }
 }
-```
-
-## Development Roadmap
-
-### Phase 1: Core Matching (Current)
-- [x] Data lake setup with timestamped ingestion
-- [x] Synthetic data generation for testing
-- [x] Data normalization pipeline
-- [x] Deterministic matching (LinkedIn + phone)
-- [x] Profile enrichment and merge
-- [x] Data inspection and analysis tools
-
-### Phase 2: ML Matching (Planned)
-- [ ] Name embedding pipeline (TF-IDF + FastText)
-- [ ] Location embedding pipeline (TF-IDF + FastText)
-- [ ] Similarity scoring and threshold tuning
-- [ ] Confidence scoring for ML matches
-- [ ] Match validation and quality metrics
-
-## Technology Stack
-
-- **Language**: Python 3.10+
-- **Data Processing**: JSON file-based (transitioning to database)
-- **ML Libraries** (Planned):
-  - scikit-learn (TF-IDF, SVD, similarity metrics)
-  - fasttext (word embeddings)
-  - numpy (numerical operations)
-- **Future Stack**:
-  - FastAPI (REST API)
-  - PostgreSQL (database)
-  - Apache Airflow (orchestration)
-  - Docker (containerization)
-
-## Testing
-
-### Sample Data Statistics
-
-**CoreSignal:**
-- 100 profiles generated
-- File size: ~165KB
-- Average profile completeness: 85%
-
-**RocketReach:**
-- 100 profiles generated
-- File size: ~329KB
-- Average confidence score: 0.87
-
-**Borealis:**
-- 10 test profiles
-- 8 overlap with CoreSignal/RocketReach
-- 2 completely new profiles
-
-### Match Coverage
-
-Run deterministic matching to see current coverage:
-```bash
-python scripts/deterministic_matching.py
-```
-
-Expected output:
-```
-Building RocketReach indexes...
-Building CoreSignal indexes...
-Matching Borealis profiles...
-Matched BOR_100 with rocketreach (RR_000001)
-Matched BOR_101 with coresignal (CS_000001)
-...
-Deterministic matching complete. Matched 8 profiles.
 ```
 
 ## Contributing

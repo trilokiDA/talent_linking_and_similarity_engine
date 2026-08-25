@@ -11211,5 +11211,39 @@
     "confidence_score": 0.79,
     "last_updated": "2026-08-21",
     "data_freshness_days": 5
+  },
+  {
+    "source": "rocketreach",
+    "id": "RR_000101",
+    "name": "Triloki Gupta",
+    "first_name": "Triloki",
+    "last_name": "Gupta",
+    "current_employer": "EPAM",
+    "current_title": "Senior Data Scientist",
+    "department": "Data Analyst",
+    "emails": [
+      "trilokicse@gmail.com"
+    ],
+    "phones": [
+      ""
+    ],
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnatka",
+      "country": "India"
+    },
+    "social_profiles": {
+      "linkedin": "",
+      "twitter": null,
+      "google_scholar": "",
+      "orcid": "https://orcid.org/0009-0000-6136-309X",
+      "researchgate": ""
+    },
+    "orcid_id": "0000-4913-6628-7925",
+    "verified_email": true,
+    "profile_url": "",
+    "confidence_score": 0.79,
+    "last_updated": "2026-08-21",
+    "data_freshness_days": 5
   }
 ]

@@ -37,3 +37,6 @@ processed-data
 # OS files
 .DS_Store
 Thumbs.db
+
+# Model
+models/
