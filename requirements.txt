@@ -35,13 +35,13 @@ python-dateutil==2.8.2
 # ===========================
 # Machine Learning & NLP
 # ===========================
-# scikit-learn==1.4.0
+scikit-learn>=1.4.0
 # sentence-transformers==2.3.1
 # spacy==3.7.2
 # transformers==4.37.0
 # torch==2.1.2
-# fuzzywuzzy==0.18.0
-# python-Levenshtein==0.23.0
+fuzzywuzzy>=0.18.0
+gensim>=4.3.0  # For FastText embeddings (pre-built wheels)
 
 # ===========================
 # Data Validation & Quality
@@ -55,7 +55,7 @@ python-dateutil==2.8.2
 # Configuration & Environment
 # ===========================
 # python-dotenv==1.0.0
-# pyyaml==6.0.1
+pyyaml==6.0.1
 # toml==0.10.2
 
 # ===========================
