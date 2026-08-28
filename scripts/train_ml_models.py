@@ -47,6 +47,8 @@ def main():
     name_tfidf_path = models_dir / "name_tfidf_vectorizer.pkl"
     name_svd_path = models_dir / "name_svd_model.pkl"
 
+    models_dir.mkdir(parents=True, exist_ok=True)
+
     with open(name_tfidf_path, 'wb') as f:
         pickle.dump(name_embedder.tfidf_vectorizer, f)
 
