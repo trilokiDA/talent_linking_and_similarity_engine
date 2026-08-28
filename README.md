@@ -59,6 +59,7 @@ atlas/
 │   └── ml_config.yaml                  # ML matching parameters
 │
 ├── scripts/                            # Utility scripts
+│   ├── pipeline.py                     # ⭐ End-to-end pipeline (normalize → train → match)
 │   ├── generate_dummy_data.py          # Generate synthetic profiles for PoC
 │   ├── generate_borealis.py            # Generate Borealis test data
 │   ├── normalize.py                    # Normalize profiles to unified schema
@@ -84,19 +85,14 @@ pip install -r requirements.txt
 python scripts/generate_dummy_data.py
 python scripts/generate_borealis.py
 
-# 3. Normalize profiles
-python scripts/normalize.py
+# 3. Run the full pipeline (normalize → train → match) in one command ⭐
+python scripts/pipeline.py
 
-# 4. Train ML models (one-time)
-python scripts/train_fasttext.py
-python scripts/train_ml_models.py
-
-# 5. Run hybrid matching
-python scripts/hybrid_matching.py
-
-# 6. Validate results
+# 4. Validate results
 python scripts/validate_ml_matches.py
 ```
+
+> **Tip:** Use `python scripts/pipeline.py --help` to see all available flags (skip steps, deterministic-only mode, etc.).
 
 ## Installation
 
@@ -125,6 +121,69 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+
+### ⭐ Running the Full Pipeline (`pipeline.py`)
+
+`pipeline.py` is the recommended way to run the entire ATLAS workflow in a single command.
+It orchestrates all steps in order, prints per-step timing, and produces a final summary.
+
+**Step order:**
+
+| # | Step | Script |
+|---|------|--------|
+| 1 | Normalize raw data | `normalize.py` |
+| 2 | Train FastText embeddings | `train_fasttext.py` |
+| 3 | Train TF-IDF / SVD models | `train_ml_models.py` |
+| 4 | Hybrid matching (deterministic + ML) | `hybrid_matching.py` |
+
+**Commands:**
+
+```bash
+# Run everything end-to-end (recommended)
+python scripts/pipeline.py
+
+# Quick pass — normalization + deterministic matching only (no ML)
+python scripts/pipeline.py --no-ml
+
+# Resume after a partial run — skip already-completed steps
+python scripts/pipeline.py --skip-normalize
+python scripts/pipeline.py --skip-normalize --skip-train-fasttext --skip-train-ml
+
+# See all available options
+python scripts/pipeline.py --help
+```
+
+**Example output:**
+
+```
+======================================================================
+  ATLAS PIPELINE -- START
+======================================================================
+  Project root : D:\...\talent_linking_and_similarity_engine
+  Scripts dir  : D:\...\scripts
+
+======================================================================
+  PIPELINE PLAN
+======================================================================
+  [RUN]  Step 1 -- Normalize
+  [RUN]  Step 2 -- Train FastText
+  [RUN]  Step 3 -- Train ML models
+  [RUN]  Step 4 -- Hybrid Matching
+
+======================================================================
+  PIPELINE SUMMARY
+======================================================================
+  [OK    ]  Normalize                        2.3s
+  [OK    ]  Train FastText                  18.7s
+  [OK    ]  Train ML Models                  1.1s
+  [OK    ]  Hybrid Matching                  4.5s
+
+  Total pipeline time: 26.6s
+  All steps completed successfully!
+  Matched profiles -> processed-data/matched/
+```
+
+---
 
 ### 1. Generate Sample Data
 
