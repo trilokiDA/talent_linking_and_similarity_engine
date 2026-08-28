@@ -39,4 +39,5 @@ processed-data
 Thumbs.db
 
 # Model
-models/
+models/embeddings
+models/fasttext
