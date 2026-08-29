@@ -1,7 +1,69 @@
 import os
 import json
 import glob
+from datetime import date
 from pathlib import Path
+
+
+def get_latest_date_path(source_dir: Path) -> Path | None:
+    """Return the Path to the latest YYYY/MM/DD partition under *source_dir*.
+
+    The data-lake follows the layout::
+
+        data-lake/<source>/YYYY/MM/DD/<files>.json
+
+    This function scans all ``YYYY/MM/DD`` leaf directories, converts each
+    to a :class:`datetime.date` for reliable chronological comparison, and
+    returns the one corresponding to the most recent date.
+
+    Args:
+        source_dir: Root directory for a single data source, e.g.
+                    ``data-lake/coresignal``.
+
+    Returns:
+        A :class:`~pathlib.Path` pointing to the latest date folder, or
+        ``None`` when *source_dir* does not exist or contains no valid
+        ``YYYY/MM/DD`` partitions.
+
+    Example::
+
+        latest = get_latest_date_path(base_dir / "data-lake" / "coresignal")
+        if latest:
+            print(f"Processing snapshot from {latest}")
+    """
+    if not source_dir.exists():
+        return None
+
+    latest_date: date | None = None
+    latest_path: Path | None = None
+
+    # Walk every YYYY/MM/DD sub-directory.  glob("*/*/**") is intentionally
+    # kept as three levels so we don't accidentally pick up deeper artefacts.
+    for year_dir in sorted(source_dir.iterdir()):
+        if not year_dir.is_dir():
+            continue
+        for month_dir in sorted(year_dir.iterdir()):
+            if not month_dir.is_dir():
+                continue
+            for day_dir in sorted(month_dir.iterdir()):
+                if not day_dir.is_dir():
+                    continue
+                try:
+                    partition_date = date(
+                        int(year_dir.name),
+                        int(month_dir.name),
+                        int(day_dir.name),
+                    )
+                except ValueError:
+                    # Skip directories whose names aren't valid date components.
+                    continue
+
+                if latest_date is None or partition_date > latest_date:
+                    latest_date = partition_date
+                    latest_path = day_dir
+
+    return latest_path
+
 
 def get_linkedin_username(url):
     if not url:
@@ -99,31 +161,46 @@ def main():
     # Use current working directory as base
     base_dir = Path(__file__).parent.parent
     data_lake = base_dir / "data-lake"
-    
+
     # Create output directories
     coresignal_out = base_dir / "processed-data" / "normalization" / "coresignal"
     rocketreach_out = base_dir / "processed-data" / "normalization" / "rocketreach"
     borealis_out = base_dir / "processed-data" / "normalization" / "borealis"
-    
+
     coresignal_out.mkdir(parents=True, exist_ok=True)
     rocketreach_out.mkdir(parents=True, exist_ok=True)
     borealis_out.mkdir(parents=True, exist_ok=True)
-    
-    # Process CoreSignal files
-    print("Processing CoreSignal...")
-    for file_path in data_lake.glob("coresignal/**/*.json"):
-        normalize_coresignal(file_path, coresignal_out)
-        
-    # Process RocketReach files
-    print("Processing RocketReach...")
-    for file_path in data_lake.glob("rocketreach/**/*.json"):
-        normalize_rocketreach(file_path, rocketreach_out)
 
-    # Process Borealis files
+    # --- CoreSignal ---
+    print("Processing CoreSignal...")
+    cs_latest = get_latest_date_path(data_lake / "coresignal")
+    if cs_latest:
+        print(f"  Latest snapshot: {cs_latest}")
+        for file_path in cs_latest.glob("*.json"):
+            normalize_coresignal(file_path, coresignal_out)
+    else:
+        print("  [WARNING] No CoreSignal date partitions found – skipping.")
+
+    # --- RocketReach ---
+    print("Processing RocketReach...")
+    rr_latest = get_latest_date_path(data_lake / "rocketreach")
+    if rr_latest:
+        print(f"  Latest snapshot: {rr_latest}")
+        for file_path in rr_latest.glob("*.json"):
+            normalize_rocketreach(file_path, rocketreach_out)
+    else:
+        print("  [WARNING] No RocketReach date partitions found – skipping.")
+
+    # --- Borealis ---
     print("Processing Borealis...")
-    for file_path in data_lake.glob("borealis/**/*.json"):
-        normalize_borealis(file_path, borealis_out)
-        
+    bo_latest = get_latest_date_path(data_lake / "borealis")
+    if bo_latest:
+        print(f"  Latest snapshot: {bo_latest}")
+        for file_path in bo_latest.glob("*.json"):
+            normalize_borealis(file_path, borealis_out)
+    else:
+        print("  [WARNING] No Borealis date partitions found – skipping.")
+
     print("Normalization complete.")
 
 if __name__ == "__main__":

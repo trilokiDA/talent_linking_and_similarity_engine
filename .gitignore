@@ -41,3 +41,6 @@ Thumbs.db
 # Model
 models/embeddings
 models/fasttext
+
+# Folder
+data-lake/
